@@ -30,6 +30,7 @@ export type E2bResult = {
   };
   error: ExecutionError | undefined;
   results: Result[];
+  code: string;
 };
 
 export const sandboxCodeInterpreterTool = tool({
@@ -38,10 +39,18 @@ export const sandboxCodeInterpreterTool = tool({
   parameters: z.object({
     code: z.string().describe("The Python code to execute in a single cell"),
   }),
-  execute: async ({ code }): Promise<E2bResult> => {
-    console.log("[Code Interpreter]", code);
+  execute: async ({ code }, { toolCallId, messages }): Promise<E2bResult> => {
+    const combinedCode = [
+      "from resume_demo.dataloader import load_resumes",
+      "resumes = load_resumes()",
+      ...messages
+        .filter((m) => m.role === "tool")
+        .map((m) => (m.content[0].result as E2bResult).code),
+      code,
+    ].join("\n");
+    console.log("[Code Interpreter]", combinedCode);
     const sbx = await Sandbox.create(templateID);
-    const exec = await sbx.runCode(code);
+    const exec = await sbx.runCode(combinedCode);
     // Control the length, to prevent overwhelming context window
     const result = {
       logs: {
@@ -50,6 +59,7 @@ export const sandboxCodeInterpreterTool = tool({
       },
       error: exec.error,
       results: exec.results,
+      code,
     };
     console.log("[Code Interpreter Result]", result);
     return result;

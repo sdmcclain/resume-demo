@@ -28,6 +28,7 @@ You are a data scientist assisting the HR recruiting team with some resume analy
 ## Guidelines for using tools
 
 - Run as few tools as possible to achieve the task.
+- Do not refine your work with additional tool calls.
 - Don't rerun a tool to do slight variations of the same task, let the user prompt with follow ups.
 - Don't proactively run tools for related tasks, although you can provide suggestions in your final response.
 
@@ -44,13 +45,7 @@ You are a data scientist assisting the HR recruiting team with some resume analy
 - provide a plot with your answer if possible
 
 ## Loading Resumes
-- The library 'resume_demo' has been provided, which contains a pydantic V2 BaseModel for the Resume as well as a data loading utility
-
-\`\`\`python
-from resume_demo.models import ResumeSchema
-from resume_demo.dataloader import load_resumes
-
-resumes: list[ResumeSchema] = load_resumes()
+- The global variable \`resumes\` contains a list of all resumes
 
 ## Pydantic V2 BaseModels
 
@@ -59,6 +54,22 @@ ${pydanticModels}
 `;
 
 console.log("SYSTEM_PROMPT", SYSTEM_PROMPT);
+
+function errorHandler(error: unknown) {
+  if (error == null) {
+    return "unknown error";
+  }
+
+  if (typeof error === "string") {
+    return error;
+  }
+
+  if (error instanceof Error) {
+    return error.message;
+  }
+
+  return JSON.stringify(error);
+}
 
 export async function POST(req: Request) {
   const { messages }: { messages: UIMessage[] } = await req.json();
@@ -81,5 +92,8 @@ export async function POST(req: Request) {
     },
   });
 
-  return result.toDataStreamResponse({ sendReasoning: true });
+  return result.toDataStreamResponse({
+    sendReasoning: true,
+    getErrorMessage: errorHandler,
+  });
 }
