@@ -1,4 +1,5 @@
 import { promises as fs } from "fs";
+import path from "path";
 import { anthropic } from "@ai-sdk/anthropic";
 import {
   loadResumeJsonSchemaTool,
@@ -10,7 +11,7 @@ import { streamText, type UIMessage } from "ai";
 export const maxDuration = 30;
 
 const pydanticModels = await fs.readFile(
-  process.cwd() + "/src/resume_demo/models.py",
+  path.resolve(process.cwd() + "/src/resume_demo/models.py"),
   "utf8",
 );
 
