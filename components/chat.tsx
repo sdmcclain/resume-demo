@@ -15,7 +15,7 @@ export default function Chat() {
     status,
     stop,
   } = useChat({
-    maxSteps: 5,
+    maxSteps: 4,
   });
   console.log({ messages });
 

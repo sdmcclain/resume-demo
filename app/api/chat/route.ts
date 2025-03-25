@@ -7,8 +7,8 @@ import {
 } from "@/ai/tools";
 import { streamText, type UIMessage } from "ai";
 
-// Allow streaming responses up to 30 seconds
-export const maxDuration = 30;
+// Allow streaming responses up to 60 seconds
+export const maxDuration = 60;
 
 const pydanticModels = await fs.readFile(
   path.resolve(process.cwd() + "/src/resume_demo/models.py"),
