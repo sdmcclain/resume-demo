@@ -1,0 +1,129 @@
+{
+  "personalInformation": {
+    "summary": "Enthusiastic Chemist eager to pursue a lasting career in the Agriculture industry.\nDetail-oriented Chemist with expertise in the instrumentation, physical and wet chemistry, and formulation as well as coordinating testing and development.",
+    "title": "QUALITY ASSURANCE ASSOCIATE"
+  },
+  "professionalExperience": [
+    {
+      "company": "Company Name 1/4 City",
+      "position": "Quality Assurance Associate",
+      "startDate": "01/2011",
+      "endDate": "Current",
+      "location": "State",
+      "responsibilities": [
+        "Preparation, configuration, execution and authoring of reports for IQ, OQ and PQ protocols for Labware LIMS and Trackwise Systems",
+        "Managed quality systems change control, site training, deviation and CAPA compliance programs for Eisai. Other responsibilities include:",
+        "Administration and development in Trackwise, Plateau Learning Management System and Labware LIMS systems",
+        "QA oversight on all validation activities for Plateau Learning Management System",
+        "Deviation investigations, CAPA and SOP review for site engineering automation systems",
+        "Developed and provided training on local and global change management, cGMP and deviation/CAPA compliance processes to site personnel",
+        "Reviewed and approved Master Batch Records (MBRs) and Lot Packaging Records (LPRs) for commercial batch release.",
+        "Work within QA audit department for regulatory site audits and assist in responding to regulatory inspection observations.",
+        "Support the Clinical organization by providing oversight to the clinical lot record packaging, specifically, review and provide a disposition decision for packaged clinical trial material."
+      ]
+    },
+    {
+      "company": "Company Name i/4 City",
+      "position": "Senior Researcher Formulation",
+      "startDate": "01/2005",
+      "endDate": "01/2011",
+      "location": "State",
+      "responsibilities": [
+        "Lead formulation chemist in the design and execution of development programs to deliver specific topical and lyophilized product attributes.",
+        "Designed studies to substantiate formulation excipient choice, use levels and desired product aesthetic attributes",
+        "Responsible for preclinical and toxicology study drug product manufacture and testing",
+        "Generated and interpreted study data to determine physicochemical stability",
+        "Drug excipient compatibility studies and other relevant studies, including solubility/pH-solubility profiles, pKA, partition coefficient studies during formulation development process Communicated formulation development program status, goals and timelines to senior management by:",
+        "Writing detailed technical reports on completed formulation development programs and periodic reports of on-going programs",
+        "Performed a bi-monthly series of technical presentations to the product development group and regularly presented data at monthly local project team meetings",
+        "Scale-up process development of cream formulation and lyophilized parental formulations.",
+        "Assisted in the preparation of the Chemistry, Manufacturing & Control(CMC) sections of IND, ANDA and NDA submissions",
+        "Evaluated clinical and scientific literature to identify potential product differentiators and new product opportunities",
+        "Employed chromatography, spectroscopy and spectrophotometry techniques."
+      ]
+    },
+    {
+      "company": "Company Name 1/4 City",
+      "position": "Quality Control Chemist",
+      "startDate": "01/2003",
+      "endDate": "01/2005",
+      "location": "State",
+      "responsibilities": [
+        "Responsible for performing dissolution testing, content uniformity, acid resistance and assay of solid oral dosage products in a cGMP environment",
+        "Managed the stability program for all oral solid dose products",
+        "Performed USP-NF Compendial testing to ensure raw material compliance utilizing analytical and wet chemistry techniques",
+        "Investigated out of specification and out of trend data with appropriate CAPA.",
+        "Authoring and technical review of analytical SOPs"
+      ]
+    },
+    {
+      "company": "Company Name 1/4 City",
+      "position": "Quality Control/ Analytical Chemist",
+      "startDate": "01/2001",
+      "endDate": "01/2003",
+      "location": "State",
+      "responsibilities": [
+        "Responsible for performing physical and chemical GMP testing of ophthalmic formulations",
+        "Responsible for performing physical and chemical GMP testing of ophthalmic formulations",
+        "Performed raw material, in process and finished product testing as well as method transfers to Quality Control",
+        "Developed and validated stability indicating compendial and non-compendial analytical methods in accordance with ICH and FDA guidelines"
+      ]
+    },
+    {
+      "company": "Company Name 1/4 City",
+      "position": "Chemist / Supervisor",
+      "startDate": "01/1998",
+      "endDate": "01/2001",
+      "location": "State",
+      "responsibilities": [
+        "Supervision of a busy contract laboratory",
+        "Responsible for running, developing and validating methods for wet chemistry and ICP, AA and GFLAA instruments",
+        "Responsible for preparation of reports and communication of results to customers"
+      ]
+    },
+    {
+      "company": "Company Name i/4 City",
+      "position": "Chemist",
+      "startDate": "01/1995",
+      "endDate": "01/1997",
+      "location": "State",
+      "responsibilities": [
+        "Performed toxicological screening and conformational studies using GC/MS on horse serum and urine for illegal or banned drugs and their metabolites",
+        "Conducted both qualitative and quantitative analysis."
+      ]
+    }
+  ],
+  "accomplishments": [
+    "Led the pre-formulation and formulation development of a topical cream and gel for psoriases which successfully entered clinical trials."
+  ],
+  "education": [
+    {
+      "degree": "Master of Science",
+      "institution": "University of North Carolina ï¼ City",
+      "endDate": "2014",
+      "field": "Chemistry",
+      "location": "State, US"
+    },
+    {
+      "degree": "Bachelor of Science",
+      "institution": "Michigan State University 1/4 City",
+      "endDate": "1996",
+      "field": "Forensic Science",
+      "location": "State, US"
+    }
+  ],
+  "highlights": [
+    "HPLC",
+    "UV-Vis",
+    "GC",
+    "Physical Chemistry techniques",
+    "FTIR",
+    "GMP/GCP"
+  ],
+  "skills": [
+    "HPLC",
+    "GC",
+    "Physical Chemistry",
+    "UV/VIS"
+  ]
+}

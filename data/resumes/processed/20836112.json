@@ -1,0 +1,108 @@
+{
+  "personalInformation": {
+    "summary": "Marketing Manager accomplished in all aspects of campaign development, including copywriting and editing, list selection, email, social media marketing and production. Excited to grow with a company that is innovative, groundbreaking and revolutionary in the fields of journalism and social media."
+  },
+  "professionalExperience": [
+    {
+      "company": "Center of Inclusive Excellence, Southern Illinois University",
+      "position": "Advocate",
+      "startDate": "August '12",
+      "endDate": "'14",
+      "responsibilities": [
+        "Mentor minority freshman women through their first year at the University",
+        "Create programming that would aid in the esteem and retention of SIS participants",
+        "Liaison between first year students and resources on campus."
+      ]
+    },
+    {
+      "company": "College of Business, Southern Illinois University",
+      "position": "Vice President",
+      "startDate": "August '13",
+      "endDate": "'14",
+      "responsibilities": [
+        "Managed the progress of committee chairs, while maintaining positive professional relationships with other organizations on campus.",
+        "Serve as contact personal for the Minority Student Leadership Council.",
+        "Speaker of the House during service events",
+        "Created events that expanded beyond the College of Business into the Communications Department."
+      ]
+    },
+    {
+      "company": "Southern Illinois University",
+      "position": "Finance Director",
+      "startDate": "October '12",
+      "responsibilities": [
+        "Liaison between Blacks Interested in Business and the Council.",
+        "Created fundraising events to sponsor annual conference",
+        "Allocated the councils finances to different committees for a productive annual conference",
+        "Ensured financial responsibilities were being met on a weekly basis.",
+        "Advocated for the council for funding from the university, raised $2000."
+      ]
+    },
+    {
+      "company": "College of Business, Southern Illinois University",
+      "position": "Fundraising Director",
+      "startDate": "August '12",
+      "responsibilities": [
+        "Created Black Businessmen Banquet, that honored minority entrepreneurs from Carbondale, IL.",
+        "Hosted product sales of merchandise for the organization.",
+        "Created the 5 Points Program, which awarded finances to other organizations on campus that accomplished the 5 major points of B.I.B without hesitation."
+      ]
+    },
+    {
+      "company": "Company Name",
+      "position": "Finance Director",
+      "startDate": "10/2012",
+      "responsibilities": [
+        "Liaison between Blacks Interested in Business and the Council.",
+        "Created fundraising events to sponsor annual conference",
+        "Allocated the councils finances to different committees for a productive annual conference",
+        "Ensured financial responsibilities were being met on a weekly basis.",
+        "Advocated for the council for funding from the university, raised $2000."
+      ]
+    },
+    {
+      "company": "Company Name",
+      "position": "Advocate",
+      "startDate": "08/2012",
+      "responsibilities": [
+        "Mentor minority freshman women through their first year at the University",
+        "Create programming that would aid in the esteem and retention of SIS participants",
+        "Liaison between first year students and resources on campus."
+      ]
+    },
+    {
+      "company": "Company Name",
+      "position": "Vice President",
+      "startDate": "08/2013",
+      "endDate": "01/2014",
+      "responsibilities": [
+        "Managed the progress of committee chairs, while maintaining positive professional relationships with other organizations on campus.",
+        "Serve as contact personal for the Minority Student Leadership Council.",
+        "Speaker of the House during service events",
+        "Created events that expanded beyond the College of Business into the Communications Department."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Arts",
+      "institution": "Southern Illinois University",
+      "endDate": "2015",
+      "field": "Journalism",
+      "location": "City, State, US"
+    },
+    {
+      "degree": "Associate of Arts",
+      "institution": "Lincoln College",
+      "endDate": "2012",
+      "field": "Creative Writing",
+      "location": "City, State, US"
+    }
+  ],
+  "skills": [
+    "Creative Writing",
+    "Public Speaking",
+    "Social Media Savvy",
+    "Event Planning"
+  ]
+}

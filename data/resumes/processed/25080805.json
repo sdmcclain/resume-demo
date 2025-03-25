@@ -1,0 +1,75 @@
+{
+  "personalInformation": {
+    "summary": "experiences collecting and analyzing data with statistical methods, familiar with R and SAS programing, great knowledge of experiment design, sampling techniques and documents management. strong skills in communication, group-working and work-planning.",
+    "title": "INTERNSHIP"
+  },
+  "professionalExperience": [
+    {
+      "company": "Company Name",
+      "position": "internship",
+      "startDate": "May 2014",
+      "endDate": "August 2014",
+      "location": "City, State",
+      "responsibilities": [
+        "Collect, enter and analyze stock prices: collect useful data and enter them into the database in a correct classification way, use statistical methods to analyze them based on R programming.",
+        "Predict the future trend of different stocks and divide them into different category: use time series methods to predict the trend",
+        "Write summary report: use statistical methods to analyze data with R and write the performance evaluation report based on quantitative facts.",
+        "Customer service: answer the phone call and solve customers' problems and do the reception job at the front table. Also offer the instruction about stocks and how to choose them to new clients.",
+        "design the questionnaire and the get the feedback"
+      ]
+    },
+    {
+      "company": "Company Name",
+      "position": "internship",
+      "startDate": "May 2013",
+      "endDate": "August 2013",
+      "location": "City, State",
+      "responsibilities": [
+        "data collection and entering: collect financial data and classify them into the correct table and items.",
+        "Write summary report: use statistical methods to analyze data with R and write the performance evaluation report based on quantitative facts.",
+        "Customer service: answer the phone call and solve customers' problems and do the reception job at the front table.",
+        "inventory control: keep record of the number of materials and keep track of the way they out and in.",
+        "arrangement the business trip: book the hotel, arrange the schedules for each day, keep track of the budget of the business trip."
+      ]
+    },
+    {
+      "company": "Company Name",
+      "position": "internship",
+      "startDate": "November 2012",
+      "endDate": "March 2013",
+      "location": "City, State",
+      "responsibilities": [
+        "data collection and entering: collect financial data and classify them into the correct table and items.",
+        "Write summary report: use statistical methods to analyze data with R and write the performance evaluation report based on quantitative facts.",
+        "Customer service: answer the phone call and solve customers' problems and do the reception job at the front table.",
+        "Meeting preparation: prepare documents need in the meeting, make sure all the participants can come, prepare PowerPoint slides and arrange the meeting room.",
+        "Introduce production to customers: introduce financial products which the most suitable to the client and persuade them to buy."
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "name": "SAS advanced license"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Master of Science",
+      "institution": "University of Missouri",
+      "endDate": "2015",
+      "field": "Statistics",
+      "gpa": "3.7",
+      "location": "City, State, The United States"
+    }
+  ],
+  "skills": [
+    "Strong knowledge of SAS, R and SSPS programming",
+    "Excellent research skills",
+    "Microsoft Word, Excel, PowerPoint",
+    "Excellent quantitative skills",
+    "Team leadership",
+    "Organizational planning",
+    "Leadership/communication skills",
+    "Customer-oriented"
+  ]
+}

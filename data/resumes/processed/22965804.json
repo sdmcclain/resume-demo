@@ -1,0 +1,58 @@
+{
+  "personalInformation": {
+    "title": "CONSTRUCTION WORKER"
+  },
+  "professionalExperience": [
+    {
+      "company": "Company Name",
+      "position": "Construction Worker",
+      "startDate": "May 2014",
+      "endDate": "May 2014",
+      "location": "City, State",
+      "responsibilities": [
+        "I performed demolition work by taking down the rooms, cleaning them up and getting them ready to be remodeled."
+      ]
+    },
+    {
+      "company": "Company Name",
+      "position": "Assembly Line Painter",
+      "startDate": "May 2013",
+      "endDate": "August 2013",
+      "location": "City, State",
+      "responsibilities": [
+        "Paint Shop Assembly line: E-Z Go.",
+        "I retrieve the parts from the paint shop and take them off the assembly line."
+      ]
+    },
+    {
+      "company": "Company Name",
+      "position": "Bus Washer",
+      "startDate": "April 2012",
+      "endDate": "August 2012",
+      "location": "City, State",
+      "responsibilities": [
+        "Start date.",
+        "End date."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science : International Business",
+      "institution": "Stetson University",
+      "endDate": "2016",
+      "location": "City, State, US"
+    }
+  ],
+  "highlights": [
+    "Highly Motivated.",
+    "Dependable.",
+    "Ethical and honest.",
+    "Dedicated.",
+    "Hard working."
+  ],
+  "skills": [
+    "Assembly",
+    "Paint Shop"
+  ]
+}

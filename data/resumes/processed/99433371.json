@@ -1,0 +1,81 @@
+{
+  "personalInformation": {
+    "summary": "To find an internship in the profession where I can gain experience in and exposure to the practice of product design."
+  },
+  "professionalExperience": [
+    {
+      "company": "Castle Inspection Service",
+      "position": "Residential Insurance Appraiser",
+      "startDate": "Aug 2006",
+      "endDate": "Current",
+      "location": "Oregon and California",
+      "responsibilities": [
+        "Appraise high value homes in Oregon and California for a replacement cost."
+      ]
+    },
+    {
+      "company": "Company Name i/4 City, State",
+      "position": "Construction",
+      "startDate": "Jul 2005",
+      "endDate": "Jan 2006",
+      "responsibilities": [
+        "Extensive remodeling project."
+      ]
+    },
+    {
+      "company": "Company Name i/4 City, State",
+      "position": "internship",
+      "startDate": "Nov 2004",
+      "responsibilities": [
+        "internship supporting interior design/project teams, researching materials, and organizing the materials resource library."
+      ]
+    },
+    {
+      "company": "Company Name i/4 City, State",
+      "position": "Accounts Payable Assistant",
+      "startDate": "Jan 1999",
+      "endDate": "Jan 2000",
+      "responsibilities": [
+        "Handling petty cash, data entry, payroll distribution, and other administrative duties."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "BFA",
+      "institution": "University of Oregon i City, State",
+      "field": "Product Design"
+    },
+    {
+      "degree": "Bachelor of Interior Architecture , Business Administration",
+      "institution": "University of Oregon i¼ City, State",
+      "endDate": "2005",
+      "field": "Business Administration"
+    },
+    {
+      "degree": "Undeclared Objects and Impacts Digital Illustration Interior Construction Elements Furniture Theory and Analysis Color Theory and Application Rome Program",
+      "institution": "University of Washington ï¼ City, State",
+      "startDate": "2003 1999"
+    }
+  ],
+  "skills": [
+    "administrative duties",
+    "Adobe Photoshop",
+    "AutoCAD",
+    "Color",
+    "data entry",
+    "Digital Illustration",
+    "Illustrator",
+    "Inspection",
+    "Insurance",
+    "interior design",
+    "materials",
+    "Excel",
+    "PowerPoint",
+    "Microsoft Word",
+    "organizing",
+    "payroll",
+    "researching",
+    "Revit"
+  ]
+}

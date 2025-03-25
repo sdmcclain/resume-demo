@@ -1,0 +1,54 @@
+{
+  "personalInformation": {
+    "title": "SALES ASSOCIATE"
+  },
+  "professionalExperience": [
+    {
+      "company": "Company Name",
+      "position": "Sales Associate",
+      "startDate": "01/2015",
+      "endDate": "11/2016",
+      "location": "City, State",
+      "responsibilities": [
+        "Meet and greet customers, investigate customers needs and hot buttons while building rapport, sell my company and organization,",
+        "demonstrate the product, present the product to the customer, trade evaluation on trade in vehicles, handle and by pass customer objections politely, write up the customer in a professional manner on a credit application, negotiate and present figures to a customer, deliver their new vehicle to the customer, follow up for future business or any questions or concerns."
+      ]
+    },
+    {
+      "company": "Company Name",
+      "position": "Produce Clerk",
+      "startDate": "01/2013",
+      "endDate": "12/2014",
+      "location": "City, State",
+      "responsibilities": [
+        "Keep work area clean at all times, make sure produce is presentable and fresh, re stock and and always keep produce full, unloading new shipments of fresh produce off of pallets, keeping a safe and clean back room environment, and always give great customer service to customers."
+      ]
+    },
+    {
+      "company": "Company Name",
+      "position": "Field Worker",
+      "startDate": "01/2012",
+      "endDate": "12/2013",
+      "location": "City, State",
+      "responsibilities": [
+        "Trim and remove leaves of grapes, pick grapes, and also picked blueberries."
+      ]
+    }
+  ],
+  "skills": [
+    "Great Communication Skills",
+    "credit",
+    "customer service",
+    "Customer Service",
+    "English",
+    "Inventory",
+    "Negotiation",
+    "Pallet Jack",
+    "pick",
+    "Presentation Skills",
+    "rapport",
+    "Sales",
+    "Spanish",
+    "Phones"
+  ]
+}

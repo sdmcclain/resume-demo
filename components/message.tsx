@@ -17,6 +17,7 @@ import {
   StopCircle,
 } from "lucide-react";
 import { SpinnerIcon } from "./icons";
+import { Result } from "@e2b/code-interpreter";
 
 interface ReasoningPart {
   type: "reasoning";
@@ -170,7 +171,8 @@ const PurePreviewMessage = ({
                     </motion.div>
                   );
                 case "tool-invocation":
-                  const { toolName, state } = part.toolInvocation;
+                  // @ts-expect-error result _is_ on the toolInvocation
+                  const { toolName, state, result } = part.toolInvocation;
 
                   return (
                     <motion.div
@@ -203,6 +205,19 @@ const PurePreviewMessage = ({
                           ) : null}
                         </div>
                       </div>
+                      {state === "result" && result?.results?.[0]?.png ? (
+                        <div className="flex items-center gap-2">
+                          <div className="flex-1">
+                            {result.results.map((result: Result) => (
+                              <img
+                                //key={result.logs.stdout}
+                                key={result.png}
+                                src={`data:image/png;base64,${result.png}`}
+                              />
+                            ))}
+                          </div>
+                        </div>
+                      ) : null}
                     </motion.div>
                   );
                 case "reasoning":

@@ -1,0 +1,75 @@
+{
+  "personalInformation": {
+    "title": "DIRECTOR OF PROGRAMMING ARTS"
+  },
+  "professionalExperience": [
+    {
+      "company": "Company Name i¼ City, State",
+      "position": "Director of Programming Arts",
+      "startDate": "03/2014",
+      "endDate": "Current",
+      "responsibilities": [
+        "Responsible for the cultural arts activities at multiple venues.",
+        "Responsible for the management of the Celebrity Concert Series (CCS) and duties include overseeing all programming, marketing, hospitality, financial accounts, administration, and fulfillment.",
+        "Responsible for interacting with and guiding the CCS Board of Directors.",
+        "Responsible for all facets of programming and management of the Tanner Amphitheater.",
+        "Added visual design elements, incorporating concessions and catering, seeking and obtaining permits to serve alcohol, and structuring the programming around two series formats.",
+        "Created, produced, and directed the show as well as assembled and hired the performance and tech team."
+      ]
+    },
+    {
+      "company": "Company Name 1/4 City, State",
+      "position": "Board of Directors Member",
+      "startDate": "01/2010",
+      "endDate": "Current",
+      "responsibilities": [
+        "SUSWA continues to be a creative force in the Southern Utah area by providing a platform for an active group of like-minded individuals interested in the art of songwriting and performance.",
+        "SUSWA plans and implements various clinics for its membership throughout the year.",
+        "Create and manage multiple concert series each year in St George, Utah."
+      ]
+    },
+    {
+      "company": "Company Name i¼ City, State",
+      "position": "Operations Manager",
+      "startDate": "01/1994",
+      "endDate": "03/2015",
+      "responsibilities": [
+        "Responsible for the daily management of a busy commercial recording studio.",
+        "Managed each of these activities along with a talented staff of creative minded engineers and musicians.",
+        "Created many industry relationships with both entertainers and management."
+      ]
+    },
+    {
+      "company": "Company Name ï¼ State",
+      "position": "Musician",
+      "startDate": "01/1994",
+      "endDate": "Current",
+      "responsibilities": [
+        "Have had the opportunity to travel the world as a touring/performing musician.",
+        "This experience allows the unique position of a deep understanding of multiple sides of the industry."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science",
+      "institution": "Brigham Young University i/4 City, State, United States",
+      "endDate": "1994",
+      "field": "Psychology"
+    }
+  ],
+  "skills": [
+    "Productivity improvement",
+    "Detail-oriented",
+    "Superb time management skills",
+    "Process improvement",
+    "Multi-unit operations management",
+    "Natural leader",
+    "Unsurpassed work ethic",
+    "Results-oriented",
+    "Sales Software: Showare",
+    "Audio/Video Software: Pro Tools, Qlab, Adobe Premiere",
+    "Desktop Publishing Software: Photoshop, Illustrator, Indesign, Wordpress",
+    "Microsoft Office Suite"
+  ]
+}

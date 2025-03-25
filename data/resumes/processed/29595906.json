@@ -1,0 +1,70 @@
+{
+  "personalInformation": {
+    "title": "LABORER"
+  },
+  "professionalExperience": [
+    {
+      "company": "Company Name",
+      "position": "Aided in Aircraft mechanics, aircraft clean up, and restoration.",
+      "startDate": "08/2016",
+      "endDate": "12/2016",
+      "location": "1/4 City, State"
+    },
+    {
+      "company": "Laborer Company Name",
+      "position": "Categorized livestock to be sold at auction. Worked with live animals in livestock pens and with auctioneers. In charge of loading and unloading livestock.",
+      "startDate": "02/2016",
+      "endDate": "05/2016",
+      "location": "ï¼ City, State"
+    },
+    {
+      "company": "Laborer Company Name",
+      "position": "Part time summer worker in charge of general labor and maintenance of parts and inventory.",
+      "startDate": "06/2014",
+      "endDate": "08/2014",
+      "location": "i/4 City, State"
+    }
+  ],
+  "accomplishments": [
+    "Captain of high school Football and Baseball 2014-2015",
+    "Lettered Varsity Football 4 yearsÂ",
+    "Lettered Varsity Baseball 3 yearsÂ",
+    "Lettered Varsity Track 1 year",
+    "Voted Most Athletic by classmates 2015",
+    "First Team All Region Football 2014",
+    "Second Team All Conference Football 2014"
+  ],
+  "certifications": [
+    {
+      "name": "CDL Class A Learners"
+    },
+    {
+      "name": "Pesticide Applicator Certificate Â"
+    },
+    {
+      "name": "Boating Safety Course CertificateÂ"
+    },
+    {
+      "name": "Hunter Safety Course Certificate"
+    }
+  ],
+  "education": [
+    {
+      "degree": "HVAC",
+      "institution": "New River Community College",
+      "endDate": "2015",
+      "location": "i/4 City, State, USA"
+    },
+    {
+      "degree": "Advance Diploma",
+      "institution": "Rural Retreat High School",
+      "location": "1/4 City, State, USA"
+    }
+  ],
+  "skills": [
+    "Â Dependable",
+    "Fast Learner",
+    "Trustworthy",
+    "Hard workingÂ"
+  ]
+}

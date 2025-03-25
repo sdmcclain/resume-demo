@@ -1,0 +1,120 @@
+{
+  "personalInformation": {
+    "summary": "Driven and compassionate health and wellness professional with eight years of experience. Accountable, organized, and responsible with a strong focus in health education, clinical nutrition and exercise physiology.",
+    "title": "HEALTH COACH"
+  },
+  "professionalExperience": [
+    {
+      "company": "Company Name",
+      "position": "Health Coach",
+      "startDate": "Mar 2012",
+      "endDate": "Current",
+      "location": "City, State",
+      "responsibilities": [
+        "Provide health coaching to employees of multiple corporate clients (e.g., Procter & Gamble, The Hartford).",
+        "Collaborate with participants using motivational interviewing and an evidence-based approach to develop a health goal and action plan geared towards behavior change."
+      ]
+    },
+    {
+      "company": "Company Name",
+      "position": "Clinical Nutritionist and Exercise Physiologist, Owner",
+      "startDate": "Aug 2011",
+      "endDate": "Current",
+      "location": "City, State",
+      "responsibilities": [
+        "Promote awareness of current health and wellness research, news and content through social media.",
+        "Provide nutritional consultation and exercise prescriptions to clients."
+      ]
+    },
+    {
+      "company": "Company Name",
+      "position": "Speaker/Health Educator",
+      "startDate": "Jul 2011",
+      "endDate": "Current",
+      "location": "City, State",
+      "responsibilities": [
+        "Present health and wellness seminars.",
+        "Perform biometric assessments (i.e., height, weight, BMI, body fat percentage) and review lab results (e.g., cholesterol and blood glucose)."
+      ]
+    },
+    {
+      "company": "Company Name",
+      "position": "Health Educator",
+      "startDate": "Jun 2011",
+      "endDate": "Feb 2012",
+      "location": "City, State",
+      "responsibilities": [
+        "Assisted participants in developing health goals and behavior change.",
+        "Collaborated with a team of social workers, dietitians, pharmacists, and behavioral health specialists; made referrals as needed."
+      ]
+    },
+    {
+      "company": "Company Name",
+      "position": "Fitness Director",
+      "startDate": "Jan 2010",
+      "endDate": "May 2011",
+      "location": "City, State",
+      "responsibilities": [
+        "Developed and coordinated fitness programs based on the needs of the population. Tracked participation and health assessment data to evaluate progress.",
+        "Organized and executed timely and successful marketing campaigns for programs. Created marketing materials to promote programs (i.e., brochures, flyers, and postcards).",
+        "Composed and edited monthly and quarterly newsletters."
+      ]
+    },
+    {
+      "company": "Company Name",
+      "position": "Health Project Coordinator in Exercise Physiology",
+      "startDate": "Dec 2008",
+      "endDate": "Dec 2009",
+      "location": "City, State",
+      "responsibilities": [
+        "Coordinated the day-to-day operations of a research study (The effects of an aerobic and resistance training program on fatigue experienced by breast cancer patients undergoing radiation treatment).",
+        "Managed operation of the PEAK (Physical Exercise and Kinesiology) Laboratory.",
+        "Performed exercise testing on eligible patients that consented to study."
+      ]
+    },
+    {
+      "company": "Company Name",
+      "position": "Clinical Support Assistant",
+      "startDate": "Feb 2005",
+      "endDate": "Dec 2008",
+      "location": "City, State",
+      "responsibilities": [
+        "Collaborated with a multidisciplinary team on a daily basis to help assist in the care of patients on the bone marrow transplant unit.",
+        "Performed administrative duties including triaging phone calls, managing appointments and lab order entry."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Master of Science",
+      "institution": "New York Chiropractic College",
+      "endDate": "2014",
+      "field": "Applied Clinical Nutrition",
+      "location": "City, State",
+      "startDate": "2014"
+    },
+    {
+      "degree": "Master of Science",
+      "institution": "State University of New York at Buffalo",
+      "endDate": "2008",
+      "field": "Exercise Science",
+      "location": "City, State",
+      "startDate": "2008"
+    },
+    {
+      "degree": "Bachelor of Arts",
+      "institution": "State University of New York at Geneseo",
+      "endDate": "2004",
+      "field": "Biology",
+      "location": "City, State",
+      "startDate": "2004"
+    }
+  ],
+  "skills": [
+    "Health promotion",
+    "nutrition counseling",
+    "exercise testing & prescription",
+    "health and fitness speaker",
+    "Microsoft Office (Excel, PowerPoint, Word)"
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "personalInformation": {
+    "summary": "Enthusiastic student majoring in Chemistry; great at performing many task in a timely matter and as efficient as possible. Strong background in computer tasks and data analysis as well as business management.",
+    "title": "GRAPHIC DESIGNER"
+  },
+  "professionalExperience": [
+    {
+      "company": "Company Name",
+      "position": "Graphic Designer",
+      "startDate": "August 2009",
+      "endDate": "March 2013",
+      "location": "City, State",
+      "responsibilities": [
+        "In charge of advertising and designing and publishing Point of Sale materials."
+      ]
+    },
+    {
+      "company": "Company Name",
+      "position": "General Manager",
+      "startDate": "August 2009",
+      "endDate": "August 2011",
+      "location": "City, State",
+      "responsibilities": [
+        "Installing POS systems, computer networking, fuel inventory management, and Payroll management."
+      ]
+    },
+    {
+      "company": "Company Name",
+      "position": "General Manager",
+      "startDate": "March 2006",
+      "endDate": "October 2014",
+      "location": "City, State",
+      "responsibilities": [
+        "Team/ scheduling/ payroll management.",
+        "Accomplishments Â· Eight year in business management in which I managed to lower the cost of good and increase sales and profit.",
+        "In charge of Sales operations such as ordering, inventory, and customer service."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Chemistry",
+      "institution": "El Camino College",
+      "endDate": "2015",
+      "location": "City, State",
+      "startDate": "2015"
+    },
+    {
+      "degree": "Molecular, Cellular, and Developmental Biology",
+      "institution": "University Of California Los Angeles",
+      "endDate": "2017",
+      "location": "City, State, USA",
+      "startDate": "2017"
+    }
+  ],
+  "highlights": [
+    "General Chemistry and Organic Basic HTML coding, Microsoft Office, 3D Chemistry Laboratories including synthesis, animation, database analysis. purification, and extraction. Inventory management and sales/profit IR spectroscopy as well as analyzing NMR analysis using SQL server and various POS and Mass Spec. data. software. Graphic designing using Photoshop and Illustrator."
+  ],
+  "skills": [
+    "3D",
+    "Photoshop",
+    "advertising",
+    "animation",
+    "business management",
+    "Chemistry",
+    "computer networking",
+    "customer service",
+    "database analysis",
+    "designing",
+    "Graphic",
+    "Basic HTML",
+    "Illustrator",
+    "Inventory management",
+    "inventory",
+    "materials",
+    "Microsoft Office",
+    "NMR",
+    "Payroll",
+    "POS",
+    "profit",
+    "coding",
+    "Sales",
+    "scheduling",
+    "SQL server"
+  ]
+}

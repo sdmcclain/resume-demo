@@ -1,0 +1,54 @@
+{
+  "personalInformation": {
+    "title": "CERTIFIED CUSTOM FRAMER"
+  },
+  "professionalExperience": [
+    {
+      "company": "Company Name 1/4 City",
+      "position": "Certified Custom Framer",
+      "startDate": "01/2015",
+      "endDate": "Current",
+      "location": "State",
+      "responsibilities": [
+        "Providing great customer service in helping each customer pick design that best fits their needs.",
+        "Managing time to meet deadlines.",
+        "â€<Helping out on the floor or at register when needed.",
+        "Training new associates in the frame shop."
+      ]
+    },
+    {
+      "company": "Company Name 1/4 City",
+      "position": "Sales Associate",
+      "startDate": "09/2014",
+      "endDate": "11/2014",
+      "location": "State",
+      "responsibilities": [
+        "Delivered excellent customer service by greeting and assisting each customer.",
+        "Filled in positions when understaffed or a task needed to be completed.Â",
+        "Assisted manager in closing down store and cash registers at the end of each night.",
+        "Visual merchandising through setting planograms and detailed recovery.",
+        "Stocked inventory when shipments were received.",
+        "Learned how to work with a team to accomplish greater tasks."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "High School Diploma",
+      "institution": "Trinity High School i¼ City",
+      "endDate": "2014",
+      "location": "State, United States",
+      "startDate": "2014"
+    }
+  ],
+  "skills": [
+    "Ability to multitask.",
+    "Certified in custom framing.",
+    "Motivated to meet every deadline.",
+    "Excellent communication skills",
+    "Problem solver",
+    "4.3 GPA",
+    "Graduated with Honors",
+    "Business manager on yearbook staffÂ"
+  ]
+}

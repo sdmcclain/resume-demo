@@ -1,0 +1,95 @@
+{
+  "personalInformation": {
+    "summary": "Actively seeking a Full Time position in Technology within an organization utilizing my skillset and innovation to grow in a success driven atmosphere.",
+    "title": "SALES ASSOCIATE"
+  },
+  "professionalExperience": [
+    {
+      "company": "Company Name i/4 City, State",
+      "position": "Sales Associate",
+      "startDate": "Nov 2011",
+      "endDate": "Current",
+      "responsibilities": [
+        "Interact and assist customers, co-workers, Loss Prevention and Management, take direction from supervisor on assigned tasks and notify upon completion, notify Loss Prevention of suspicious activity and safety hazards, answer phone, provide customer service on sales floor while assisting with recovery."
+      ]
+    },
+    {
+      "company": "Company Name i/4 City, State",
+      "position": "Materials Handler",
+      "startDate": "Jun 2008",
+      "endDate": "Mar 2009",
+      "responsibilities": [
+        "Extract parts from inventory for kits to be assembled on production floor, audits, notify supervisor of completed tasks, data entry, technical support."
+      ]
+    },
+    {
+      "company": "Company Name i/4 City, State",
+      "position": "Mailroom Clerk",
+      "startDate": "Oct 2007",
+      "endDate": "Feb 2008",
+      "responsibilities": [
+        "Process incoming/outgoing mail via electronic processor, distribute interoffice mail, retrieve files for underwriter department, follow up with supervisor with updates on progress, faxing, copying,."
+      ]
+    },
+    {
+      "company": "Company Name 1/4 City, State",
+      "position": "Warehouse Clerk",
+      "startDate": "Dec 2006",
+      "endDate": "Oct 2007",
+      "responsibilities": [
+        "Assist shipping manager prepare outgoing orders, assist supervisor verify incoming supplies from receiving dock and replenish back into inventory, record new inventory counts and follow up with supervisor to keep records accurate, replenish supplies to production floor for assembly, place supply orders via purchasing manager, distribute interoffice mail."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "AS, Network Engineering",
+      "institution": "Moorpark College Network Engineering",
+      "endDate": "2017"
+    },
+    {
+      "degree": "AS, Computer Information Systems",
+      "institution": "Moorpark College Computer Information Systems",
+      "endDate": "2007"
+    },
+    {
+      "degree": "High School Graduate",
+      "institution": "Simi Valley High School",
+      "endDate": "1994"
+    }
+  ],
+  "highlights": [
+    "Win10, 8, 7, Vista, XP, Server 2013, ipad, tablets Hardware: PC Setup/Configuration/Integration/ Printers, Monitors, Routers, Scanners, Cables Software: IE 10,9,MS Suite, Adobe Reader, Firefox, Mozilla, Wi-Fi"
+  ],
+  "skills": [
+    "Adobe",
+    "Cables",
+    "Hardware",
+    "copying",
+    "customer service",
+    "data entry",
+    "direction",
+    "faxing",
+    "IE",
+    "inventory",
+    "Loss Prevention",
+    "mail",
+    "Win",
+    "Monitors",
+    "PC Setup",
+    "Printers",
+    "progress",
+    "purchasing",
+    "receiving",
+    "Routers",
+    "safety",
+    "sales",
+    "Scanners",
+    "shipping",
+    "supervisor",
+    "technical support",
+    "phone",
+    "underwriter",
+    "Vista"
+  ]
+}

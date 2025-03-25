@@ -1,0 +1,93 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Resume Schema",
+  "type": "object",
+  "properties": {
+    "personalInformation": {
+      "type": "object",
+      "properties": {
+        "title": { "type": "string" },
+        "summary": { "type": "string" }
+      }
+    },
+    "highlights": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "accomplishments": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "professionalExperience": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "position": { "type": "string" },
+          "company": { "type": "string" },
+          "location": { "type": "string" },
+          "startDate": { "type": "string" },
+          "endDate": { "type": "string" },
+          "responsibilities": {
+            "type": "array",
+            "items": { "type": "string" }
+          }
+        },
+        "required": ["position", "company", "startDate"]
+      }
+    },
+    "education": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "degree": { "type": "string" },
+          "field": { "type": "string" },
+          "institution": { "type": "string" },
+          "location": { "type": "string" },
+          "graduationDate": { "type": "string" },
+          "startDate": { "type": "string" },
+          "endDate": { "type": "string" },
+          "gpa": { "type": "string" }
+        },
+        "required": ["degree", "institution"]
+      }
+    },
+    "skills": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "certifications": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": { "type": "string" },
+          "date": { "type": "string" }
+        },
+        "required": ["name"]
+      }
+    },
+    "militaryService": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "branch": { "type": "string" },
+          "rank": { "type": "string" },
+          "startDate": { "type": "string" },
+          "endDate": { "type": "string" },
+          "responsibilities": {
+            "type": "array",
+            "items": { "type": "string" }
+          }
+        }
+      }
+    },
+    "interests": {
+      "type": "array",
+      "items": { "type": "string" }
+    }
+  },
+  "required": ["personalInformation", "professionalExperience"]
+}

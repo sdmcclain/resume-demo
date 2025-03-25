@@ -1,0 +1,102 @@
+{
+  "personalInformation": {
+    "summary": "Interior Designer with a distinct understanding of spatial theory who harbors an exceptional design instinct and is uniquely attuned to the importance\nof materiality, lighting, composition and the overall design process.",
+    "title": "PRINCIPLE DESIGNER/OWNER"
+  },
+  "professionalExperience": [
+    {
+      "company": "Company Name 1/4 City, State",
+      "position": "Principle Designer / Owner",
+      "startDate": "08/2011",
+      "endDate": "Current",
+      "responsibilities": [
+        "Designed floor plans, elevations, and 3D perspective views and material boards for both in-house review and presentation to the client.",
+        "Programmed client's need from schematic design to the construction document phase and installation.",
+        "Created professional presentations to creatively communicate design intent and direction.",
+        "Participated in furniture selection and documentation of the specifications.",
+        "Maintained accurate specifications for each project.",
+        "Ensured that the project vision and design intent were reflected.",
+        "Visited home sites when necessary to assess and fulfill customer needs.",
+        "Successfully assisted clients in choosing furnishings that were consistent with their preferences and budget.",
+        "Produced content for material boards and specification binders for presentation and construction.",
+        "Reviewed project costs, budgets and adherence to schedules."
+      ]
+    },
+    {
+      "company": "Company Name i/4 City, State",
+      "position": "Principle Designer/Owner",
+      "startDate": "10/2005",
+      "endDate": "09/2011",
+      "responsibilities": [
+        "Designed floor plans, elevations, and material boards for both in-house review and presentation to the client.",
+        "Programmed client's need from schematic design to the construction document phase and installation.",
+        "Created professional presentations to creatively communicate design intent and direction.",
+        "Participated in furniture selection and documentation of the specifications.",
+        "Maintained accurate specifications for each project.",
+        "Ensured that the project vision and design intent were reflected.",
+        "Visited home sites when necessary to assess and fulfill customer needs.",
+        "Produced content for material boards and specification binders for presentation and construction.",
+        "Developed interior design concepts and prepared interior systems and finishes.",
+        "Reviewed project costs, budgets and adherence to schedules."
+      ]
+    },
+    {
+      "company": "Company Name i¼ City, State",
+      "position": "CAD Operator/Designer",
+      "startDate": "07/1997",
+      "endDate": "07/2005",
+      "responsibilities": [
+        "CAD Operator/Designer for a fast paced New York City MEP firm Electrical (Power & Lighting), Plumbing, Sprinklers. and some HVAC.",
+        "Worked closely with Senior Engineers, Architects, and Interior Designers.",
+        "Filled in wherever needed."
+      ]
+    },
+    {
+      "company": "Company Name i¼ City, State",
+      "position": "Lighting Designer",
+      "startDate": "10/1995",
+      "endDate": "04/1997",
+      "responsibilities": [
+        "Developed and designed overall and specialty lighting from conception to completions for the former May Company Stores.",
+        "Primarily assigned to remodels do to their more complicated nature.",
+        "Designed floor plans,",
+        "elevations and created professional presentations to creatively communicate design intent and direction.",
+        "Maintained accurate specifications for each project.",
+        "Visited sites when necessary to assess and fulfill client needs."
+      ]
+    }
+  ],
+  "accomplishments": [
+    "Lighting Designer and Project Manager for David A Mintz Inc., a former May Company consulting firm. Developed and designed all lighting for\nRobinson-May, Fashion Valley Mall and Foley's, Scottsdale Fashion Square Mall. Assisted in the development and design of various Hecht's,\nKaufmann's, Strawbridge's, and Lord and Taylor department store lighting, while simultaneously completing and meeting all deadlines for several\nlarge-scale successful projects.",
+    "Successfully completing graduate school by I writing thesis underlining the theoretical concept of spatial theory."
+  ],
+  "education": [
+    {
+      "degree": "Masters of Fine Arts : Interior Design",
+      "institution": "Miami International University of Art and Design i/4 City, State, USA",
+      "endDate": "2015",
+      "gpa": "GPA: 9"
+    },
+    {
+      "degree": "Bachelors of Fine Arts : Interior Design",
+      "institution": "Art Institute of Fort Lauderdale 1/4 City, State, USA",
+      "endDate": "1994"
+    },
+    {
+      "degree": "Associate of Applied Science : Interior Design",
+      "institution": "Art Institute of Colorado ï¼ City, State, USA",
+      "endDate": "1993"
+    }
+  ],
+  "skills": [
+    "Drafting",
+    "Space planning",
+    "Interior architectural detailing",
+    "Color and material application",
+    "Proficient with furniture systems",
+    "Concept development",
+    "Proficient in AutoCAD",
+    "Graphic presentations",
+    "Product specifications"
+  ]
+}

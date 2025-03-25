@@ -1,0 +1,74 @@
+{
+  "personalInformation": {
+    "summary": "New graduate seeking work as a Counselor able to facilitate both individual and group therapy sessions to help participants overcome obstacles. Detail-oriented with superior interpersonal skills.",
+    "title": "HR ASSISTANT INTERN"
+  },
+  "professionalExperience": [
+    {
+      "company": "Company Name",
+      "position": "HR Assistant Intern",
+      "startDate": "February 2016",
+      "endDate": "March 2016",
+      "location": "City, State",
+      "responsibilities": [
+        "Provide administrative support to the Human Resources Director.",
+        "Verify I-9 documentation for new hires.",
+        "Submit the online investigation requests and assists with new employee background checks.",
+        "Update HR spreadsheet with employee change requests and process paperwork."
+      ]
+    },
+    {
+      "company": "Company Name",
+      "position": "Owner, Operator",
+      "startDate": "August 2012",
+      "endDate": "Current",
+      "location": "City, State",
+      "responsibilities": [
+        "Managed fashion retail store independently.",
+        "Provided professional support to staff.",
+        "Assisted retail store in exhibiting innovative products."
+      ]
+    },
+    {
+      "company": "Company Name",
+      "position": "Preservation Technician I",
+      "startDate": "October 2004",
+      "endDate": "May 2013",
+      "location": "City, State",
+      "responsibilities": [
+        "Responsible for the assembly of fabricated phase boxes, portfolios and custom enclosures for protecting historic and fragile library materials.",
+        "Performed archival sound repairs for books and pamphlets which included: rebinding books in the original covers (recasing).",
+        "Prepared and submitted books for additional processing at the bindery.",
+        "Designed complex enclosures for special projects."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelors of Art Organizational Leadership",
+      "institution": "Cleveland State University",
+      "endDate": "April 2018",
+      "field": "Organizational Leadership"
+    },
+    {
+      "degree": "Associate Degree",
+      "institution": "Bryant & Stratton College",
+      "endDate": "April, 2016",
+      "location": "City State"
+    }
+  ],
+  "skills": [
+    "High energy",
+    "Sound judgment",
+    "Compassionate",
+    "Conflict resolution training",
+    "Exceptional problem solver",
+    "Excellent communication skills",
+    "Â Excellent writing skills",
+    "Customer service skills",
+    "Proficiency in Microsoft Excel, Word, PowerPoint and the Internet",
+    "administrative support",
+    "repairs",
+    "spreadsheet"
+  ]
+}

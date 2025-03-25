@@ -1,15 +1,11 @@
 "use client";
 
-import type { modelID } from "@/ai/providers";
 import { useChat } from "@ai-sdk/react";
-import { useState } from "react";
 import { Textarea } from "./textarea";
 import { ProjectOverview } from "./project-overview";
 import { Messages } from "./messages";
-import { Header } from "./header";
 
 export default function Chat() {
-  const [selectedModel, setSelectedModel] = useState<modelID>("grok-2-1212");
   const {
     messages,
     input,
@@ -20,10 +16,8 @@ export default function Chat() {
     stop,
   } = useChat({
     maxSteps: 5,
-    body: {
-      selectedModel,
-    },
   });
+  console.log({ messages });
 
   const isLoading = status === "streaming" || status === "submitted";
 
@@ -31,7 +25,7 @@ export default function Chat() {
 
   return (
     <div className="h-dvh flex flex-col justify-center w-full stretch">
-      <Header />
+      {/* <Header /> */}
       {messages.length === 0 ? (
         <div className="max-w-xl mx-auto w-full">
           <ProjectOverview />
@@ -44,8 +38,6 @@ export default function Chat() {
         className="pb-8 bg-white dark:bg-black w-full max-w-xl mx-auto px-4 sm:px-0"
       >
         <Textarea
-          selectedModel={selectedModel}
-          setSelectedModel={setSelectedModel}
           handleInputChange={handleInputChange}
           input={input}
           isLoading={isLoading}

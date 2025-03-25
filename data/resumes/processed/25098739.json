@@ -1,0 +1,59 @@
+{
+  "personalInformation": {
+    "summary": "A motivated hard working individual that is willing to learn and accomplish any task that is giving to me, I've always been dependable and reliable. Motivated to get along well with others and exceed expectations. Thrives in a fast-paced environment and works to complete projects quickly and efficiently. Experienced Construction Laborer knowledgeable about the tools, materials and methods used in road construction.",
+    "title": "CONSTRUCTION WORKER"
+  },
+  "professionalExperience": [
+    {
+      "company": "Company Name 1/4",
+      "position": "Construction Worker",
+      "startDate": "March 2012",
+      "endDate": "October 2014",
+      "location": "City, State",
+      "responsibilities": [
+        "Planted Plants in the ground at the Cincinnati city parks, Cleaned the parks."
+      ]
+    },
+    {
+      "company": "Company Name 1/4",
+      "position": "Construction Worker",
+      "startDate": "March 2008",
+      "endDate": "March 2012",
+      "location": "City, State",
+      "responsibilities": [
+        "Flagged Traffic and set traffic control."
+      ]
+    },
+    {
+      "company": "Company Name 1/4",
+      "position": "Construction Worker",
+      "startDate": "August 2005",
+      "endDate": "February 2008",
+      "location": "City, State",
+      "responsibilities": [
+        "General Cleaning the college dorms out for the year.",
+        "Helping the foreman out when he needed me to assist him with the ceiling tile."
+      ]
+    },
+    {
+      "company": "Company Name 1/4",
+      "position": "Construction worker/ Painter",
+      "startDate": "June 2005",
+      "endDate": "Current",
+      "location": "City, State",
+      "responsibilities": [
+        "Painting, Cleaning up some remolding houses and apartment's."
+      ]
+    }
+  ],
+  "accomplishments": [
+    "Residential construction Sandbagging Traffic Control Laying the liner.",
+    "Accomplishments Lead a crew of 6 general construction laborers workers for a year."
+  ],
+  "highlights": [
+    "Demolition Asphalt Excellent driving record Strong communication skills OSHA Certified Construction Workers Union Local 265"
+  ],
+  "skills": [
+    "Painting"
+  ]
+  }

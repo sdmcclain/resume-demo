@@ -1,0 +1,71 @@
+{
+  "personalInformation": {
+    "summary": "I am a PMP certified marketing, technical, and research project manager. I currently work as a technical and research project manager at PMA\nMedia Group. I have led projects that include: Â\n• User Research/Testing and Product Planning\n• UX Design and Graphics Design\n• Web Development and Technical Software Creation\n• Online Campaigns (Marketing Strategy and Asset Creation)\n• SEO, Analytics, and other data points.\nâ€<I have a current Project Management Professional certificate and am working towards my Agile Project Management certificate and my IIBA\nBusiness Analyst certification.\nI have not just lead projects, I am also experienced in production in the following areas:\n• Front end web-development\n• UX and Graphics Design for Web sites\n• SEO and Keyword Research\n• Analytics for web, social, and email",
+    "title": "TECHNICAL PROJECT MANAGER"
+  },
+  "professionalExperience": [
+    {
+      "company": "Company Name i/4 City, State",
+      "position": "Technical Project Manager",
+      "startDate": "May 2017",
+      "endDate": "Current",
+      "responsibilities": [
+        "Lead all technical projects for PMA Media Group and it's AU credit card division. This includes both internal and client facing technical solution\ncreation--From finance department tools creation to client facing web services creation.Â\nI have also started to help PMA Media implement a scrum process for all technical development, with an agile approach to user discovery."
+      ]
+    },
+    {
+      "company": "Company Name 1/4 City, State",
+      "position": "Project Manager - Digital Marketing/Web",
+      "startDate": "Aug 2014",
+      "endDate": "May 2017",
+      "responsibilities": [
+        "Lead projects that included:\n• Web Development and Website Content Creation\n• User Research/Analytics/Testing/SEO\n• UX Design and Graphics Design\n• Campaign Marketing Strategy and Asset Creation\nThis included the management of the creation of many of FamillySearch.org's campaigns; including Pioneer campaign, Meet my Grandma,\nFreedmen's Bureau and more."
+      ]
+    },
+    {
+      "company": "Company Name i/4 City, State",
+      "position": "Digital Media Analyst",
+      "startDate": "Jan 2014",
+      "endDate": "Jul 2014",
+      "responsibilities": [
+        "Worked with clients to determine Business Requirements and KPIs for their digital products. We would create measurement strategies for their\nwebsites, apps, email campaigns, and social channels. This was mostly done in Adobe Analytics, ClickTale, and Localytics, but sometimes in\nGoogle Analytics as well.\nThis included both report creation as well as code implementation."
+      ]
+    },
+    {
+      "company": "Company Name i¼ City, State",
+      "position": "Content Publisher and Front End Developer",
+      "startDate": "Sep 2013",
+      "endDate": "Jan 2014",
+      "responsibilities": [
+        "Working with clients and an in house content management system, I would create web pages with some custom\nstyle. I would also collaborate on marketing strategy behind each page being created."
+      ]
+    },
+    {
+      "company": "Company Name i/4 City, State",
+      "position": "Language Technical Writer",
+      "startDate": "Mar 2013",
+      "endDate": "Sep 2013",
+      "responsibilities": [
+        "I translated Finnish language bank documents to English and created simple web pages out of them using\nHTML/CSS and some JavaScript."
+      ]
+    }
+  ],
+  "accomplishments": [
+    "Project Management Professional Certification - March 2016"
+  ],
+  "highlights": [
+    "RootsTech.org: Â https://www.rootstech.org/ (Project Management, Marketing Strategy, Agile Based Sprint Workflow)",
+    "â€<Freedmen's Bureau Campaign: Â http://www.discoverfreedmen.org/ (Project Management, Marketing Strategy)",
+    "Multiple Sections on Lds.org and FamilySearch.org: Â https://www.lds.org/?lang=eng,Â https://familysearch.org/"
+  ],
+  "skills": [
+    "Project Management (Including Agile Methodologies)",
+    "2.5 Years of WorkFront Experience (As well as JIRA, Trello,\nSlack, and others)",
+    "â€<Javascript, PhP, Html/Css, VBA, Multiple libraries (Jquery,\nAngular, etc.)",
+    "Marketing Strategy for audience definition and strategy to tactics\nmapping",
+    "Microsoft Office, with high proficiency in Microsoft Excel",
+    "Adobe Analytics Implementation and Measurement Proficiency",
+    "A Capable of writing User Research scripts and Testing plans",
+    "Conducting Focus groups, usability tests, surveys, and other\ntesting methods."
+  ]
+}

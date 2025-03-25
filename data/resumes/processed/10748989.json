@@ -1,0 +1,156 @@
+{
+  "personalInformation": {
+    "summary": "Computer savvy and proficient with design tools for Architecture and Electro-Mechanical Design [Job Title] who continually searches for new inspiration and stays savvy on current design trends. Proficient in Adobe InDesign, SketchUp and Rhino. [Job Title] whose multi-faceted specialty ranges from design of accessories and furniture to lighting design. Motivated Visual Merchandising Designer involved in all stages of design from product inception and development to production. Results-oriented [Job Title] who delivers cutting edge and creative designs within strict time frames. Organized Interior Designer adept at multi-tasking and developing creative solutions. Successfully coordinates with vendors and manages construction teams with ease.",
+    "title": "LIGHTING DESIGNER"
+  },
+  "professionalExperience": [
+    {
+      "company": "Company Name",
+      "position": "Lighting Designer",
+      "startDate": "12/2013",
+      "endDate": "11/2014",
+      "location": "City, State",
+      "responsibilities": [
+        "Interfaced with design team members, including contractors, consultants, fabricators, architects and regulatory agencies.",
+        "Specified proper products and materials for each project.",
+        "Carefully reviewed contractor submittals of finish materials.",
+        "Specified proper products and materials for each project.",
+        "Prepared construction documents and details to implement design concepts.",
+        "Originated and developed creative design concepts."
+      ]
+    },
+    {
+      "company": "Company Name",
+      "position": "Architectural and Electrical Design/Drafter",
+      "startDate": "03/2008",
+      "endDate": "12/2013",
+      "location": "City, State",
+      "responsibilities": [
+        "Architectural and Electrical Design/Drafting.",
+        "Successfully resolved complex technical design issues.",
+        "Interfaced with design team members, including contractors, consultants, fabricators, architects and regulatory agencies.",
+        "Carefully reviewed contractor submittals of finish materials.",
+        "Specified proper products and materials for each project.",
+        "Originated and developed creative design concepts.",
+        "Prepared construction documents and details to implement design concepts."
+      ]
+    },
+    {
+      "company": "Company Name",
+      "position": "Architecture Intern",
+      "startDate": "05/2007",
+      "endDate": "02/2008",
+      "location": "City, State",
+      "responsibilities": [
+        "Consulted with clients to determine architectural preference to meet overall design goals.",
+        "Interfaced with design team members, including contractors, consultants, fabricators, architects and regulatory agencies.",
+        "Carefully reviewed contractor submittals of finish materials.",
+        "Specified proper products and materials for each project.",
+        "Facilitated requests regarding product information, installation methods and product upgrade options.",
+        "Originated and developed creative design concepts.",
+        "Prepared construction documents and details to implement design concepts."
+      ]
+    },
+    {
+      "company": "Company Name",
+      "position": "Senior Electro-Mechanical Designer & CEO",
+      "startDate": "01/1990",
+      "endDate": "01/2005",
+      "location": "City, State",
+      "responsibilities": [
+        "Raytheon E-Systems.",
+        "Motorola.",
+        "Cadence.",
+        "Consulted with clients to determine architectural preference to meet overall design goals.",
+        "Researched industry in the area of green building and environmental design.",
+        "Assisted clients with budget considerations regarding products and materials.",
+        "Successfully resolved complex technical design issues.",
+        "Interfaced with design team members, including contractors, consultants, fabricators, architects and regulatory agencies.",
+        "Facilitated requests regarding product information, installation methods and product upgrade options.",
+        "Originated and developed creative design concepts.",
+        "Prepared construction documents and details to implement design concepts."
+      ]
+    },
+    {
+      "company": "Company Name",
+      "position": "Senior Electro-Mechanical Designer",
+      "startDate": "02/1986",
+      "endDate": "11/1989",
+      "location": "City, State",
+      "responsibilities": [
+        "Successfullyresolved complex technical design issues.",
+        "Interfaced with design team members, including contractors, consultants, fabricators, architects and regulatory agencies.",
+        "Specified proper products and materials for each project.",
+        "Originated and developed creative design concepts.",
+        "Prepared construction documents and details to implement design concepts."
+      ]
+    },
+    {
+      "company": "Company Name",
+      "position": "Design/Drafter",
+      "startDate": "05/1980",
+      "endDate": "01/1986",
+      "location": "City, State",
+      "responsibilities": [
+        "Consulted with clients to determine architectural preference to meet overall design goals.",
+        "Successfully resolved complex technical design issues.",
+        "Interfaced with design team members, including contractors, consultants, fabricators, architects and regulatory agencies.",
+        "Specified proper products and materials for each project.",
+        "Originated and developed creative design concepts.",
+        "Prepared construction documents and details to implement design concepts."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Fine Arts",
+      "institution": "The University of North Carolina - City",
+      "endDate": "2013",
+      "field": "Interior Architecture",
+      "graduationDate": "2013",
+      "startDate": "2013"
+    },
+    {
+      "degree": "Associates",
+      "institution": "Wake Technical Community College",
+      "field": "Applied Science Architecture Technology"
+    },
+    {
+      "degree": "Drafting Certificate",
+      "institution": "Island Drafting & Technical Institute - City, State",
+      "field": "Electrical and Mechanical",
+      "startDate": "1980"
+    }
+  ],
+  "skills": [
+    "Building codes knowledge",
+    "Design process",
+    "Complex problem solving",
+    "Carpentry",
+    "Strong analytical ability",
+    "Sketching",
+    "Excellent attention to detail",
+    "Rendering",
+    "Commercial interior design",
+    "Digital drafting",
+    "Working drawings and procedures",
+    "3D rendering software",
+    "Space planning methodology",
+    "Proficient in SketchUp",
+    "AutoCAD",
+    "Cadence",
+    "Client",
+    "Documentation",
+    "Drafting",
+    "Estimating",
+    "Leadership",
+    "Team lead",
+    "Lighting",
+    "Materials",
+    "meetings",
+    "Motorola",
+    "presentations",
+    "Press",
+    "Project Management"
+  ]
+}

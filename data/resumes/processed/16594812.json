@@ -1,0 +1,80 @@
+{
+  "personalInformation": {
+    "title": "CHEF\nProfessional Summary\nTo obtain a position within an environment that offers a challenge and the capability to gain more knowledge about the company. To be given the\nopportunity to grow within the company and the chance to progress in my career. Once a job is obtained within a specific organization, to have the\nability to help the company advance productively and efficiently."
+  },
+  "professionalExperience": [
+    {
+      "company": "Company Name",
+      "position": "Chef",
+      "startDate": "August 2007",
+      "endDate": "September 2009",
+      "location": "City, State",
+      "responsibilities": [
+        "Prepped food for catered events such as; weddings, parties and business luncheons.",
+        "Set-up tables and chairs for banquet and dining space.",
+        "Executed banquet style and plated lunches and dinner."
+      ]
+    },
+    {
+      "company": "Company Name",
+      "position": "Chef/Assistant Manager",
+      "startDate": "October 2007",
+      "endDate": "September 2009",
+      "location": "City, State",
+      "responsibilities": [
+        "Prep and cook for lunch service Catered business lunches for CEO of the Museum Manage daily sales reports Train new personnel, both\nfront and back of the house Track weekly food cost."
+      ]
+    },
+    {
+      "company": "Company Name",
+      "position": "Cook",
+      "startDate": "October 2006",
+      "endDate": "October 2007",
+      "location": "City, State",
+      "responsibilities": [
+        "Prep for dinner service.",
+        "Prep and cook for banquet parties of 50 or more clients.",
+        "Line cook during dinner service.",
+        "Bake desserts for both the restaurant and banquet services."
+      ]
+    },
+    {
+      "company": "Company Name",
+      "position": "Cashier",
+      "startDate": "April 2004",
+      "endDate": "August 2005",
+      "location": "City, State",
+      "responsibilities": [
+        "Process customer transactions.",
+        "Help customers apply for Sears credit cards.",
+        "Process customer return of merchandise.",
+        "Sort, fold, put away unwanted merchandise."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Present Associates : Applied Science-Medical Billing and Coding Applied Science-Medical Billing and Coding",
+      "institution": "Grantham University Online College"
+    },
+    {
+      "degree": "Certification in Baking and Pastry",
+      "institution": "California Culinary Academy",
+      "endDate": "March 2006",
+      "location": "City, State"
+    },
+    {
+      "degree": "High School Diploma",
+      "institution": "Walla Walla High School",
+      "endDate": "June 2005",
+      "location": "City, State"
+    }
+  ],
+  "skills": [
+    "credit",
+    "clients",
+    "personnel",
+    "sales reports",
+    "tables"
+  ]
+}

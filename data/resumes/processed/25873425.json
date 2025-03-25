@@ -1,0 +1,159 @@
+{
+  "personalInformation": {
+    "summary": "I am an empowered health advocate with excellent communication and active listening skills with a strong motivation to succeed. I am seen as reliable and approachable employee who quickly learns and masters new concepts and skills. I am motivated and enthusiastic about helping patients and the community navigate rights and responsibilities during treatment. Personable demeanor with priority on care and service. Seen as a friendly team player with talent for operating in fast-paced, dynamic environments.",
+    "title": "HEALTH ADVOCATE"
+  },
+  "professionalExperience": [
+    {
+      "company": "Company Name",
+      "position": "Health Advocate",
+      "startDate": "03/2017",
+      "endDate": "Current",
+      "location": "City, State",
+      "responsibilities": [
+        "Assisted patients in understanding individual rights and responsibilities in regards to care, coverage and payment",
+        "Reviewed all patient paperwork for accuracy, including claims, bills and medico-legal documents",
+        "Responded to 15 or more patient concerns and questions with compassionate and knowledgeable service in a day",
+        "Entered continuing medical documentation into computer systems and managed database of information",
+        "Compiled and reviewed medical charts",
+        "Manages approximately 30 incoming calls, emails, faxes per day from patients, pharmacies, and doctor offices",
+        "Used Lytec to schedule and manage patient appointments",
+        "Balanced cash deposits, credit card payments each day",
+        "Took co-payments, compiled daily financial records",
+        "Worked effectively with staff from all departments to coordinate resolutions",
+        "Helped vulnerable individuals navigate complex healthcare system",
+        "Developed and implemented training classes to educate team members and community residents",
+        "Resolved patient flow problems, improved operations and provided exceptional client support"
+      ]
+    },
+    {
+      "company": "Company Name",
+      "position": "Security Officer",
+      "startDate": "08/2015",
+      "endDate": "02/2017",
+      "location": "City, State",
+      "responsibilities": [
+        "Preformed and authorized entrance and departure of over 30 vehicles, cargo trucks and visitors",
+        "Detected suspicious activities and watched for criminal acts and rule infractions",
+        "Wrote detailed reports on property damage, theft, presence of unauthorized persons and unusual occurrences",
+        "Patrolled private and public community premises to prevent and detect signs of intrusion and secure doors, windows and gates",
+        "Checked and secured 14 building entrances over 8 hours",
+        "Patrolled 2 square miles of property to ensure safety of employees, homeowners, and guests",
+        "Collaborated with area law enforcement and federal investigators to support safe fugitive apprehensions and coordinate investigations"
+      ]
+    },
+    {
+      "company": "Company Name",
+      "position": "Security Coordinator",
+      "startDate": "12/2019",
+      "endDate": "Current",
+      "location": "City, State",
+      "responsibilities": [
+        "Checked identification of all persons entering and exiting facility",
+        "Oversaw periodic safety inspections, patrol service and immediate response to all safety-security situations",
+        "Remained flexible in rapidly changing environments and adapted to developing situations",
+        "Responded to suspicious activities to investigate and resolve concerns with appropriate physical or verbal techniques",
+        "Maintained composure and professionalism while screening visitors during high volume periods",
+        "Adhered to established procedures and policies and posted orders to include enforcement of company rules, policies and regulations",
+        "Answered alarms and investigated disturbances, contacting local law enforcement personnel for escalating crises",
+        "Applied effective communication and interpersonal skills when interacting with all levels of personnel and general public",
+        "Resolved complaints and issues involving both guests and employees",
+        "Completed incident reports by recording observations and occurrences and interviewing witnesses following physical incidents",
+        "Worked both independently and collaboratively to resolve urgent issues, which included building and personal incidents",
+        "Secured entrances and exits via physical presence and careful monitoring of CCTV",
+        "Secured premises and personnel by patrolling property and monitoring surveillance equipment, including CCTV cameras"
+      ]
+    },
+    {
+      "company": "Company Name",
+      "position": "Transition Health Advocate",
+      "startDate": "03/2017",
+      "endDate": "Current",
+      "location": "City, State",
+      "responsibilities": [
+        "Assisted patients in understanding individual rights and responsibilities in regards to care, coverage and payment",
+        "Reviewed all patient paperwork for accuracy, including claims, bills and medico-legal documents",
+        "Responded to patient concerns and questions with compassionate and knowledgeable service",
+        "Entered details into computer systems and managed database of information",
+        "Compiled and reviewed medical charts",
+        "Manages approximately 30 incoming calls, emails, and faxes per day from patients and pharmacies",
+        "Used Lytec to schedule appointments",
+        "Balanced deposits and credit card payments each day",
+        "Took co-payments and compiled daily financial records",
+        "Worked effectively with staff from all departments to coordinate resolutions"
+      ]
+    },
+    {
+      "company": "Company Name",
+      "position": "Security Officer",
+      "startDate": "08/2015",
+      "endDate": "02/2017",
+      "location": "City, State",
+      "responsibilities": [
+        "Monitored and authorized entrance and departure of vehicles, cargo trucks and visitors",
+        "Detected suspicious activities and watched for criminal acts and rule infractions",
+        "Wrote reports on property damage, theft, presence of unauthorized persons and unusual occurrences",
+        "Patrolled industrial and commercial premises to prevent and detect signs of intrusion and secure doors, windows and gates",
+        "Checked and secured 14 building entrances over 8 hours",
+        "Patrolled 2 square miles premises to ensure safety of employees and visitors"
+      ]
+    },
+    {
+      "company": "Company Name",
+      "position": "Maintenance",
+      "startDate": "09/2014",
+      "endDate": "04/2015",
+      "location": "City, State",
+      "responsibilities": [
+        "Vacuumed rugs and carpeted areas in offices, lobbies and corridors",
+        "Polished glass surfaces and windows",
+        "Removed waste paper and other trash from the premises to designated area",
+        "Disinfected and mopped bathrooms to keep them sanitary and clean",
+        "Used chemicals and other cleaning equipment in a proper, safe and responsible manner"
+      ]
+    },
+    {
+      "company": "Company Name",
+      "position": "School Age Teacher",
+      "startDate": "10/2013",
+      "endDate": "04/2014",
+      "location": "City, State",
+      "responsibilities": [
+        "Addressed behavioral and learning issues with parents and daycare management",
+        "Encouraged good behaviors using the positive reinforcement method",
+        "Encouraged children to be understanding of and patient with others",
+        "Made nutritious breakfasts, lunches, dinners and snacks for the children",
+        "Engaged with children on an individual basis in a pleasant manner",
+        "Organized structured learning activities for classroom of 15 students to teach motor skills"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science",
+      "institution": "East Stroudsburg University",
+      "endDate": "04/2017",
+      "field": "Psychology",
+      "location": "City, State"
+    },
+    {
+      "degree": "High School Diploma",
+      "institution": "Naugatuck High School",
+      "endDate": "2017",
+      "location": "City, State"
+    }
+  ],
+  "skills": [
+    "Public Safety",
+    "Administrative Support",
+    "Proficient in Lytec",
+    "Proficient in GSuite",
+    "Patient rights",
+    "Data entry",
+    "Time management",
+    "Problem-solving skills",
+    "Decision-making abilities",
+    "Crisis intervention",
+    "Crisis communication"
+  ]
+}

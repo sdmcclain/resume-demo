@@ -1,0 +1,180 @@
+{
+  "personalInformation": {
+    "summary": "To contribute my work ethic and experience to a kitchen team within a company that fosters growth.",
+    "title": "HEAD CHEF"
+  },
+  "professionalExperience": [
+    {
+      "company": "Company Name",
+      "position": "Head Chef",
+      "startDate": "01/2016",
+      "endDate": "01/2016",
+      "location": "City, State",
+      "responsibilities": [
+        "Running kitchen operations Menu management Prepping, cooking, and plating Safety and sanitation Hiring and termination Budget control",
+        "Training employees Communicating with food venders Food orders."
+      ]
+    },
+    {
+      "company": "Company Name",
+      "position": "Kitchen Manager/ Chef",
+      "startDate": "09/2013",
+      "endDate": "01/2014",
+      "location": "City, State",
+      "responsibilities": [
+        "Running day to day operations.",
+        "Menu management.",
+        "Prepping, cooking, and plating.",
+        "Maintaining health and safety standards for all employees."
+      ]
+    },
+    {
+      "company": "Company Name",
+      "position": "Line Cook/ Garde Manger",
+      "startDate": "02/2013",
+      "endDate": "05/2013",
+      "location": "City, State",
+      "responsibilities": [
+        "Alternating stations as needed/ sautÃ© and grill Practicing F.I.F.O.",
+        "to ensure food quality was high and spoilage cost were low Followed company recipes to create dishes according to customer orders",
+        "Maintained sanitation, health, and safety standards in work areas Prepping stations for next day during shift downtime Expediting tickets",
+        "Helping source local ingredients to keep dishes seasonal Closing Kitchen."
+      ]
+    },
+    {
+      "company": "Company Name",
+      "position": "Garde Manger / Line Cook",
+      "startDate": "01/2011",
+      "endDate": "01/2012",
+      "location": "City, State",
+      "responsibilities": [
+        "Alternating stations as needed Practicing F.I.F.O.",
+        "to ensure food quality was high and spoilage cost were low Followed company recipes to create dishes according to customer orders",
+        "Maintained sanitation, health, and safety standards in work areas Prepping stations for next day during shift downtime Practicing time",
+        "management for ticket call Helping create dishes and appetizers for events Remaining attentive to multiple dishes at once during peak hours,",
+        "ensuring that dishes were complete in a timely manner and with high quality."
+      ]
+    },
+    {
+      "company": "Company Name",
+      "position": "Garde Manger",
+      "startDate": "01/2009",
+      "endDate": "01/2009",
+      "location": "City, State",
+      "responsibilities": [
+        "Followed company recipes to create dishes according to customer orders.",
+        "Maintained sanitation, health, and safety standards in work areas.",
+        "Significantly contributed to the service of the team by creating salads, appetizers, desserts, sauces, dumplings, fish, fry station, and preparing",
+        "produce.",
+        "Remaining attentive to multiple dishes at once during peak hours, ensuring that dishes were complete in a timely manner and with high",
+        "quality."
+      ]
+    },
+    {
+      "company": "Company Name",
+      "position": "Prep Chef/ Line Cook",
+      "startDate": "01/2008",
+      "endDate": "01/2009",
+      "location": "City, State",
+      "responsibilities": [
+        "Washed, cut, and prepared foods designated for cooking.",
+        "Operated high-volume equipment such as grills, deep fryers, griddles, ovens, and stovetops.",
+        "Assisted kitchen staff with various tasks such as inventory, food portioning, and dishwashing.",
+        "Portioned and wrapped the food and placed it directly on plates for service."
+      ]
+    },
+    {
+      "company": "Company Name",
+      "position": "Cashier / Clerk",
+      "startDate": "01/2007",
+      "endDate": "01/2008",
+      "location": "City, State",
+      "responsibilities": [
+        "Received and processed cash, check, credit cards, vouchers, and automatic debit payments.",
+        "Issued receipts, refunds, credits, and change due to customers.",
+        "Greeted customers entering the establishment and handled all customer's concerns."
+      ]
+    },
+    {
+      "company": "Company Name",
+      "position": "Sheet Metal Fabricator",
+      "startDate": "01/2007",
+      "endDate": "01/2007",
+      "location": "City, State",
+      "responsibilities": [
+        "Performed fabrication, assembly, soldering, welding, electrical, isolation, and blueprinting of refrigeration and cooling systems for yachts.",
+        "Utilized hand and power tools such as shielded metal and gas metal arc welding equipment.",
+        "Operated metal shaping, straightening, and bending machines, such as brakes and shears."
+      ]
+    },
+    {
+      "company": "Company Name",
+      "position": "Welder/Fabricator",
+      "startDate": "01/2006",
+      "endDate": "01/2006",
+      "location": "City, State",
+      "responsibilities": [
+        "Performed fabrication, electrical, welding, mechanical, painting, and wheel system assembly.",
+        "Preheated work pieces prior to welding or bending, using torches or heating furnaces.",
+        "Cut, contoured, and beveled metal plates and structural shapes to dimensions as specified by blueprints, work orders, and templates, using",
+        "powered saws, hand shears, or chipping knives."
+      ]
+    },
+    {
+      "company": "Company Name",
+      "position": "Allied Trade Noncommissioned Officer in Charge",
+      "startDate": "01/2001",
+      "endDate": "01/2005",
+      "location": "City, State",
+      "responsibilities": [
+        "Demonstrated expertise as a machinist, mechanic, tool maker, and welder.",
+        "Coordinated and trained welding, range, and safety courses.",
+        "Ensured the safety of officers and soldiers by ensuring procedures were adhered to properly.",
+        "Responsible for inventory of all shop tools and maintenance of equipment."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Culinary Arts",
+      "institution": "Orange Coast College",
+      "endDate": "2012",
+      "location": "City, State",
+      "startDate": "Culinary Arts"
+    },
+    {
+      "degree": "Bachelors: Culinary Arts and Hospitality",
+      "institution": "The International Cooking Schools of the Art Institute",
+      "endDate": "2009",
+      "location": "City, State",
+      "startDate": "Culinary Arts and Hospitality"
+    }
+  ],
+  "skills": [
+    "blueprints",
+    "Budget",
+    "Closing",
+    "Cooking",
+    "credit",
+    "debit",
+    "dimensions",
+    "Training employees",
+    "health and safety standards",
+    "Hiring",
+    "inventory",
+    "machinist",
+    "mechanical",
+    "mechanic",
+    "next",
+    "painting",
+    "peak",
+    "power tools",
+    "Purchasing",
+    "quality",
+    "Safety",
+    "soldering",
+    "time management",
+    "welder",
+    "welding"
+  ]
+}

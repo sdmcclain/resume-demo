@@ -1,7 +1,5 @@
-import { modelID } from "@/ai/providers";
 import { Textarea as ShadcnTextarea } from "@/components/ui/textarea";
 import { ArrowUp } from "lucide-react";
-import { ModelPicker } from "./model-picker";
 
 interface InputProps {
   input: string;
@@ -9,8 +7,6 @@ interface InputProps {
   isLoading: boolean;
   status: string;
   stop: () => void;
-  selectedModel: modelID;
-  setSelectedModel: (model: modelID) => void;
 }
 
 export const Textarea = ({
@@ -19,8 +15,6 @@ export const Textarea = ({
   isLoading,
   status,
   stop,
-  selectedModel,
-  setSelectedModel,
 }: InputProps) => {
   return (
     <div className="relative w-full pt-4">
@@ -41,10 +35,6 @@ export const Textarea = ({
             }
           }
         }}
-      />
-      <ModelPicker
-        setSelectedModel={setSelectedModel}
-        selectedModel={selectedModel}
       />
 
       {status === "streaming" || status === "submitted" ? (

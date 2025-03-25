@@ -1,0 +1,70 @@
+{
+  "personalInformation": {
+    "title": "STYLIST"
+  },
+  "professionalExperience": [
+    {
+      "company": "Company Name 1/4 City, State",
+      "position": "Stylist",
+      "startDate": "Apr 2015",
+      "endDate": "Current",
+      "responsibilities": [
+        "Pulled entire wardrobes for clients, styling them from head to toe in our merchandise",
+        "Built a strong client base that remained loyal to myself and the brand",
+        "Made clients and customers feel welcome through excellent customer service",
+        "Upsell and suggest items to customers in order to exceed personal KPI stats ($80 per transaction, 3.0 units per transaction, $300 an hour)",
+        "Created and hosted client shopping events for my loyal customer base to increase the the store's end of day sales by 15%"
+      ]
+    },
+    {
+      "company": "Company Name 1/4 City, State",
+      "position": "Keyholder",
+      "startDate": "Nov 2014",
+      "endDate": "Apr 2015",
+      "responsibilities": [
+        "Promoted a work environment that is positive, customer-service oriented, and compliant with established company policies and procedures",
+        "Monitored the activities of the store employees to maximize efficiency and respond to customers' needs in a timely fashion",
+        "Supervised sales floor ensuring key selling zones are covered",
+        "Cashier duties",
+        "Opened and closed the store"
+      ]
+    },
+    {
+      "company": "Company Name i/4 City, State",
+      "position": "Sales Associate",
+      "startDate": "Feb 2014",
+      "endDate": "Nov 2014",
+      "responsibilities": [
+        "Greet and develop rapport with customers",
+        "Provide product information regarding features, trends, and styles of merchandise",
+        "Assisted customers and made suggestions based on knowledge of merchandise and customer",
+        "Maintained neat and organized merchandise through straightening, hanging, sizing, and merchandising"
+      ]
+    }
+  ],
+  "accomplishments": [
+    "Consistently in the top 20 rank of stylists in the company for excellent sale stats",
+    "1st Place in Chicago District Sales Contest",
+    "Avg. 40-55% of End of Say sales when workingâ€‹â€<"
+  ],
+  "education": [
+    {
+      "degree": "BBA, Marketing 2019",
+      "institution": "DePaul University ï¼ City, State",
+      "gpa": "3.0A",
+      "graduationDate": "2019",
+      "location": "City, State",
+      "startDate": "2019"
+    }
+  ],
+  "skills": [
+    "Enthusiastic, friendly, and personable",
+    "Advanced problem-solving",
+    "Highly adaptable",
+    "Bilingual: English and Spanish",
+    "Effective communication skills",
+    "Works well within a team, as well as individually",
+    "Working knowledge of HTML 5 and CSS",
+    "Intermediate knowledge in Microsoft Word, PowerPoint, and Excel"
+  ]
+}

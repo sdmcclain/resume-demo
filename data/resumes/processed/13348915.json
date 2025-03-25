@@ -1,0 +1,144 @@
+{
+  "personalInformation": {
+    "summary": "Punctual retail sales professional focused on exceeding expectations and building customer loyalty. Flexible schedule and strong mathematical aptitude. Results-oriented Store Manager focused on increasing profits, reducing costs, inventory management and transforming customer service standards. Enthusiastic, outgoing and fashion-savvy Sales Associate proficient at building positive relationships with new and existing customers by offering superior customer service.",
+    "title": "SALES ASSOCIATE"
+  },
+  "professionalExperience": [
+    {
+      "company": "Company Name",
+      "position": "Sales Associate",
+      "startDate": "September 2013",
+      "endDate": "November 2015",
+      "location": "City, State",
+      "responsibilities": [
+        "1 Stocked and replenished merchandise according to store merchandising layouts.",
+        "1 Priced merchandise, stocked shelves and took inventory of supplies.",
+        "1 Cleaned and organized the store, including the checkout desk and displays.",
+        "1 Alerted customers to upcoming sales events and promotions.",
+        "1 Identified potential shoplifters and alerted management.",
+        "1 Trained 7 new sales associates each quarter.",
+        "1 Completed all point of sale opening and closing procedures, including counting the contents of the cash register.",
+        "1 Welcomed customers into the store and helped them locate items.",
+        "1 Handled all customer relations issues in a gracious manner and in accordance with company policies.",
+        "1 Educated customers about the brand to incite excitement about the company's mission and values.",
+        "1 Shared best practices for sales and customer service with other team members to help improve the store's efficiency.",
+        "1 Used time efficiently when not serving customers, including folding clothes and cleaning out fitting rooms.",
+        "1 Resolved all customer complaints in a professional manner while prioritizing customer satisfaction.",
+        "1 Followed merchandising guidelines to present visually appealing displays.",
+        "1 Mentored new sales associates to contribute to the store's positive culture.",
+        "1 Fostered a positive work environment by consistently treating all employees and customers with respect and consideration.",
+        "1 Cultivated a customer-focused shopping environment by greeting and responding to all customers in a friendly manner.",
+        "1 Communicated clear expectations and goals to each team member.",
+        "1 Worked with the management team to implement the proper division of responsibilities.",
+        "1 Actively pursued personal learning and development opportunities.",
+        "1 Strategically scheduled team members to maintain optimal staffing levels at all times.",
+        "1 Answered customer telephone calls promptly and in an appropriate manner."
+      ]
+    },
+    {
+      "company": "Company Name",
+      "position": "Lot Associate",
+      "startDate": "March 2013",
+      "endDate": "September 2013",
+      "location": "City, State",
+      "responsibilities": [
+        "1 Operated a cash register for cash, check and credit card transactions with 100% accuracy.",
+        "1 Stocked and replenished merchandise according to store merchandising layouts.",
+        "1 Cleaned and organized the store, including the checkout desk and displays.",
+        "1 Alerted customers to upcoming sales events and promotions.",
+        "1 Identified potential shoplifters and alerted management.",
+        "1 Trained 3 new sales associates each quarter.",
+        "1 Handled all customer relations issues in a gracious manner and in accordance with company policies.",
+        "1 Welcomed customers into the store and helped them locate items.",
+        "1 Used time efficiently when not serving customers, including folding clothes and cleaning out fitting rooms.",
+        "1 Mentored new sales associates to contribute to the store's positive culture.",
+        "1 Fostered a positive work environment by consistently treating all employees and customers with respect and consideration."
+      ]
+    },
+    {
+      "company": "Company Name",
+      "position": "Package Handler",
+      "startDate": "June 2013",
+      "endDate": "July 2013",
+      "location": "City, State",
+      "responsibilities": [
+        "1 Loaded and Scanned 400 packages an hour.",
+        "1 Unloaded 1000 packages an hour."
+      ]
+    },
+    {
+      "company": "Company Name",
+      "position": "Pick Pack",
+      "startDate": "November 2015",
+      "endDate": "January 2016",
+      "location": "City, State",
+      "responsibilities": [
+        "Supervised material flow, storage and global order fulfillment.",
+        "Unloaded, picked, staged and loaded products for shipping.",
+        "Reported inventory balances and cycle counts in both the ERP and WMS systems.",
+        "Oversaw warehousing and storage practices and housekeeping."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Associate of Science",
+      "institution": "Manchester Community College",
+      "endDate": "2012",
+      "field": "General Studies General Studies",
+      "location": "City, State"
+    },
+    {
+      "degree": "High School Diploma",
+      "institution": "Windsor High School",
+      "field": "General Studies General Studies",
+      "location": "City, State"
+    }
+  ],
+  "highlights": [
+    "Cash handling",
+    "Detail-oriented",
+    "Analytical",
+    "Cash flow analysis",
+    "Mathematical aptitude",
+    "Organized",
+    "Time management",
+    "Excellent multi-tasker",
+    "Strong communication skills",
+    "Flexible schedule",
+    "Superb sales professional",
+    "Excellent communication skills",
+    "Supporting international sales team",
+    "Excellent negotiating tactics",
+    "Business negotiation",
+    "Internet savvy",
+    "Relationship selling",
+    "Reliable and dependable",
+    "Cheerful and energetic",
+    "Resolution-oriented"
+  ],
+  "skills": [
+    "cash register",
+    "closing",
+    "Computer literate",
+    "Credit",
+    "customer relations",
+    "customer satisfaction",
+    "customer service",
+    "Employee relations",
+    "Fluent in English",
+    "inventory",
+    "listening",
+    "Merchandising",
+    "Natural",
+    "policies",
+    "POS",
+    "problem solver",
+    "Retail sales",
+    "sales",
+    "staffing",
+    "store merchandising",
+    "team player",
+    "telephone"
+  ]
+}

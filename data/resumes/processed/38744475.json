@@ -1,0 +1,120 @@
+{
+  "personalInformation": {
+    "summary": "Talented Designer and Retail Merchandiser skilled at using product placement and creating uniquely inspiring displays. Collaborates with company headquarters and sales managers to create product display solutions that boost sales revenue.",
+    "title": "INTERIOR DESIGNER"
+  },
+  "professionalExperience": [
+    {
+      "company": "Company Name",
+      "position": "Interior Designer",
+      "startDate": "08/2013",
+      "endDate": "Current",
+      "location": "City, State",
+      "responsibilities": [
+        "Interior Design Specialist at IKEA Sunrise store.",
+        "Supported growth and development as leader of local market research project.",
+        "Designed unique and centrally planned displays.",
+        "Created inspiring homes and rooms that showcase products in function and boost sales.",
+        "Worked with vitality to motivate people to visit the store more frequently",
+        "Worked to promote IKEA as leaders of life at home",
+        "Remodeled employee resource center to promote a better everyday life at work."
+      ]
+    },
+    {
+      "company": "Company Name",
+      "position": "National Marketing Campaign IKEA Home Tour",
+      "startDate": "12/2013",
+      "endDate": "12/2014",
+      "location": "City, State",
+      "responsibilities": [
+        "Interior designer, host, video producer, and video editor for IKEA Home Tour marketing campaign.",
+        "Pioneered unique marketing project in various markets in the US.",
+        "Supporting a crew with various skills with little direct supervision.",
+        "Planning and implementing in-home makeover projects.",
+        "Distributing marketing content for social media.",
+        "Creating brand specific communication.",
+        "Speaker and promoter for live and on air marketing events.",
+        "Contributed to a positive ROI for the project."
+      ]
+    },
+    {
+      "company": "Company Name",
+      "position": "Visual Merchandiser",
+      "startDate": "01/2011",
+      "endDate": "08/2013",
+      "location": "City, State",
+      "responsibilities": [
+        "Planned, implemented, and maintained store layouts to support commercial priorities.",
+        "Adapted and implemented centrally planned display areas throughout the commercial calendar.",
+        "Strategically merchandised product displays to maximize sales.",
+        "Created inspirational and clear brand communication within the store showroom and shopping areas.",
+        "Adapted plans on the fly to account to architectural discrepancies.",
+        "Distinguished as a key contributor on assignment to Orlando store marketplace remodel."
+      ]
+    },
+    {
+      "company": "Company Name",
+      "position": "Freelance Designer",
+      "startDate": "07/2007",
+      "endDate": "01/2011",
+      "location": "City, State",
+      "responsibilities": [
+        "Residential interior design.",
+        "Specialized in layouts and finishes.",
+        "Maximized design for small space living.",
+        "Organized and coordinated contractors and installers.",
+        "Fine art consultation."
+      ]
+    },
+    {
+      "company": "Company Name",
+      "position": "Interior Designer Sales",
+      "startDate": "07/2008",
+      "endDate": "07/2009",
+      "location": "City, State",
+      "responsibilities": [
+        "Interior Designer and Sales Specialist for custom modern and contemporary furniture store.",
+        "Selected high-end furnishings and finishes for residential and commercial interior design projects.",
+        "Developed business relationships with local real estate developers.",
+        "Coordinated remodeling projects between clients contractors.",
+        "Implemented in-store sales space for Kartell."
+      ]
+    }
+  ],
+  "accomplishments": [
+    "Selected for national brand building campaign, responsible for planning, implementing, and producing makeover videos and marketing content."
+  ],
+  "education": [
+    {
+      "degree": "Bachelor's Degree",
+      "institution": "University of Central Florida",
+      "endDate": "2007",
+      "field": "Bachelor of Fine Arts, Design",
+      "location": "City, State, United States"
+    },
+    {
+      "degree": "Associate of Arts",
+      "institution": "Broward College",
+      "endDate": "2004",
+      "field": "Graphic Design",
+      "location": "City, State"
+    }
+  ],
+  "highlights": [
+    "Store layout design",
+    "Interactive displays",
+    "Common store planning",
+    "AutoCad",
+    "Store communication",
+    "Store maintenance",
+    "Graphic displays",
+    "Working remotely"
+  ],
+  "skills": [
+    "Adobe Creative Suite",
+    "AutoCAD",
+    "Planograms",
+    "English (Native or bilingual proficiency)",
+    "Spanish (Native or bilingual proficiency)"
+  ]
+}

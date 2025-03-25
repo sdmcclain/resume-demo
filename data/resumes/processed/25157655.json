@@ -1,0 +1,67 @@
+{
+  "personalInformation": {
+    "summary": "Inside Account Manager with eight years experience at SHI to fill Inside Sales Team Manager position. Strong organizational, analytical, problem resolution skills and vast account knowledge.",
+    "title": "INSIDE ACCOUNT MANAGER"
+  },
+  "professionalExperience": [
+    {
+      "company": "Company Name City, State",
+      "position": "Inside Account Manager",
+      "startDate": "06/2006",
+      "endDate": "Current",
+      "responsibilities": [
+        "Daily responsibilities include quoting, customer relations, and order management.",
+        "Experience in training new hires to develop necessary skills and techniques to meet the needs of our clients.",
+        "Constant adaptation to new opportunities and challenges for the multiple accounts handled.",
+        "Developed empathetic client relationships and earned reputation for exceeding service expectations.",
+        "Exclusively handles Microsoft SPLA, Sandia National Labs account, and multi-year $8M Novell contract."
+      ]
+    },
+    {
+      "company": "Company Name City, State",
+      "position": "Event Manager and Sales Associate",
+      "startDate": "09/2005",
+      "endDate": "05/2006",
+      "responsibilities": [
+        "Responsible for stock management, customer relations and providing knowledgeable assistance.",
+        "Leader of demonstrations for various gaming products.",
+        "Earned Joy Maker award for outstanding customer service."
+      ]
+    },
+    {
+      "company": "Company Name City, State",
+      "position": "House Manager and Box Office Sales",
+      "startDate": "09/2003",
+      "endDate": "05/2005",
+      "responsibilities": [
+        "Experienced in customer relations, staff training, and sales.",
+        "Utilized computer databases and multiple applications.",
+        "Acted as a liaison between performers, directors, and patrons to keep events on schedule."
+      ]
+    }
+  ],
+  "highlights": [
+    "Team leadership",
+    "Customer service expert",
+    "Experienced in volume licensing",
+    "Staff training",
+    "Excellent time management",
+    "Organized and meticulous",
+    "Computer-savvy",
+    "Adept multi-tasker"
+  ],
+  "skills": [
+    "Sales Center",
+    "AX",
+    "SHOES",
+    "CRM",
+    "SharePoint",
+    "Catalog Management",
+    "Outlook",
+    "Excel",
+    "Power Point",
+    "Word",
+    "Lockheed Martin Procure To Pay",
+    "Sandia Oracle Storefront"
+  ]
+  }

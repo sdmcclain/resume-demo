@@ -1,0 +1,46 @@
+{
+  "personalInformation": {
+    "summary": "Strong leadership, project management, System Administration and technical skills to meet the efficiency and optimization needs. Has 3+ years of professional experience in managing, developing and maintaining software systems, web applications, and database systems. Experience in Unix/Linux System Administration, Oracle Database Administration (11g), MySQL database administration, Ellucian Banner ERP, and Oracle Application Express(APEX).Educated with solid math background and equipped with strong problem solving skills",
+    "title": "INFORMATION DESIGNER"
+  },
+  "professionalExperience": [
+    {
+      "company": "Current Company Name ¼",
+      "position": "Information Designer",
+      "startDate": "09/2012 ¼",
+      "location": "City, State",
+      "responsibilities": [
+        "Luminis system administration - The Luminis Platform is a Web portal system(https:/aggieaccess.cameron.edu) that creates a common gateway to the information that students, faculty, and staff use every day.",
+        "This system is running on T5220 server Chief technical staff for maintaining university's website(www.cameron.edu) Degree Works administrator - Implemented DegreeWorks application on Linux server with backend Oracle database with highly customized XML documents as frontend.",
+        "Degree Works is a comprehensive, web-based academic advising and degree audit tool that helps students and their advisors successfully navigate curriculum requirements Plans and implements backup and recovery of the Oracle database using RMAN and MySQL Database with mysqldump utility Provided system administration for 12+ servers of Red Hat Linux, Centos Linux and Unix(Solaris 10) including routine maintenance, patching, and system backups and restore, and software and hardware upgrades Experienced in Performance Tuning, Query Optimization, and Database Consistency Checks Experienced in developing stored procedures, Triggers, Cursors, Joins, Views, Cursors and SQL on databases: MySQL, Oracle 11g Experienced in designing, modeling, developing, deploying and supporting database -driven applications using Oracle Application Express (APEX) Experienced in Monitoring servers by using tools like Nagios, OSSEC (Host -based Intrusion Detection System), and LogWatch.",
+        "Maintain Web Servers: Apache, DNS, Tomcat, CAS, WebGUI CMS systems Managing users, group and their permissions Managing server security using iptables Install and maintain SSL Certificates for more than 15 Web Hosts including Oracle Wallet Certificates, Apache, and Tomcat Integrate, maintain and configuring Single Sign-On(SSO) to web application with Luminis Platform Installed, Upgraded and applied patches on Oracle RDBMS and on different modules of Banner System Well-versed in developing reporting applications using Cognos Business Intelligence components like Report Studio, Framework Manager, and Query Studio Created custom reports using PL/SQL to functional users Experienced on Automatic Scripting using shell scripts bash and perl Responsible for issuing Banner Security access for faculty, staff, and students Solve security access and profile related problems Handling and generating tickets via BMC Track-It tool."
+      ]
+    },
+    {
+      "company": "Company Name ¼",
+      "position": "Research Assistant",
+      "startDate": "05/2012 i»",
+      "endDate": "07/2012",
+      "location": "City, State"
+    },
+    {
+      "company": "Company Name ¼",
+      "position": "Office Assistant",
+      "startDate": "05/2012 i»",
+      "endDate": "07/2012",
+      "location": "City, State"
+    },
+    {
+      "company": "Company Name ¼",
+      "position": "Mathematics Tutor",
+      "startDate": "10/2010 ï»",
+      "endDate": "05/2012",
+      "location": "City, State"
+    }
+  ],
+  "skills": [
+    "Languages : C, C++, C#.NET, Java, Python, PHP, Mathematica, Oracle, PL/SQL, MySQL, XHTML/CSSÂ",
+    "Environment: Windows, UNIX, Linux(Red Hat), Windows Server, WAMP, LAMP Â",
+    "Softwares IDE : TOAD for Oracle, SQL Developer, Visual Studio, Eclipse, NetBeans, Dev-C++, Notepad++,Microsoft OfficeÂ"
+  ]
+}

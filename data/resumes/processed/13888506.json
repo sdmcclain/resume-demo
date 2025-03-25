@@ -1,0 +1,61 @@
+{
+  "personalInformation": {
+    "summary": "Entrepreneur and sales professional recognized by the Prince George's Chamber of Commerce and non-profit organizations as a leader in developing strategic partnerships to acquire business growth.",
+    "title": "BUSINESS DEVELOPMENT MANAGER"
+  },
+  "professionalExperience": [
+    {
+      "company": "Company Name City, State Business Development",
+      "position": "Manager",
+      "startDate": "01/2006",
+      "endDate": "Current",
+      "responsibilities": [
+        "Information technology enterprise business operator that demonstrated profitable annual revenue.",
+        "Researcher and statical analyst that increased financial growth 15% each quarter maximizing data analytics and customer retention software to win new and retain existing customers.",
+        "Account manager of C-Suite Executives, Federal and State Procurement Directors and Mid size business decision makers.",
+        "Procurement strategist that acquired new business in emerging markets creating and responding to request for proposal (RFP) solicitations.",
+        "Social media marketing specialist Â and brand strategist. Created content and designed graphic for website, email and trade publications.",
+        "Developed Â sales marketing training programs that improved client retention and increased revenue.",
+        "Managed diverse and multicultural workforce to collaborate as a focused unit. Â"
+      ]
+    },
+    {
+      "company": "Company Name City, State Client Services",
+      "position": "Manager",
+      "startDate": "06/1996",
+      "endDate": "07/2005",
+      "responsibilities": [
+        "Sales and leasing consultant that consistently received BMW's honors award for highest in the nation sales and customer service achievements.",
+        "Finance Director that achieved recognition for surpassing sales goals for financial product presentations.",
+        "Awarded product development certification.Â",
+        "Relentless customer relations management (CRM) prospecting and cold calling skills to acquire new and to follow-up with existing customers."
+      ]
+    },
+    {
+      "company": "Company Name City, State Multi-unit Franchise",
+      "position": "Operator",
+      "startDate": "03/1985",
+      "endDate": "04/1995",
+      "responsibilities": [
+        "Â Entrepreneur that acquired multiple successful franchise units through acquisition and start up. Restauranteur that developed and sold businesses for profit over a ten year period. Held key position on franchisee board responsible for direct marketing and advertising. Attributes: real-estate development, accounting and management training."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Arts",
+      "institution": "Business Management University District of Columbia - School of Business and Public Administration",
+      "location": "City, State, USA"
+    }
+  ],
+  "skills": [
+    "Sales Software: Salesforce.com, TapScan",
+    "Public Relations Software: Bacon's Mediasource, Factiva",
+    "Desktop Publishing Software: Photoshop, Illustrator,Â",
+    "Microsoft Office 365 (Excel, PowerPoint, Outlook, Word, Access)Â",
+    "Accounting and Tax software Quick Books, DRAKEÂ",
+    "Occupational Safety - OSHAÂ - 10Â",
+    "Federal Energy Management Professional (FEMP)",
+    "Web - Design HTTMLÂ"
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "personalInformation": {
+    "summary": "Highly organized and efficient in fast-paced multitasking environments; able to prioritize effectively to accomplish objectives with creativity, enthusiasm and humor.Â An experienced supervisor and trainer; able to explain information clearly, recognize excellence in individuals, and inspire team members to achieve their potential while working toward common goals.",
+    "title": "CHEF"
+  },
+  "professionalExperience": [
+    {
+      "company": "Chef Company Name i¼",
+      "position": "Chef",
+      "startDate": "07/2009",
+      "endDate": "07/2014",
+      "location": "City, State",
+      "responsibilities": [
+        "Prepared food items consistently and in compliance with recipes, portioning, cooking and waste control guidelines.",
+        "Led shifts while personally preparing food items and executing requests based on required specifications."
+      ]
+    },
+    {
+      "company": "Laborer Company Name 1/4",
+      "position": "Laborer",
+      "startDate": "06/2014",
+      "endDate": "08/2014",
+      "location": "City, State",
+      "responsibilities": [
+        "Loaded and unloaded building materials used for construction.",
+        "Manually carried roofing materials up ladders.",
+        "Consistently assumed additional responsibilities and worked extended hours to meet project deadlines."
+      ]
+    },
+    {
+      "company": "Laborer & Crew Manager Company Name i/4",
+      "position": "Laborer & Crew Manager",
+      "startDate": "06/2015",
+      "endDate": "08/2016",
+      "location": "City, State",
+      "responsibilities": [
+        "Handled scheduling for crewman and arrival times for clients",
+        "Maintained a safe work environment for crewmen",
+        "Led crews of up to four people and partnered on crews up to eight"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "High School Diploma",
+      "institution": "New London High School 1/4",
+      "field": "General Education",
+      "location": "City, State"
+    },
+    {
+      "degree": "IT - Management",
+      "institution": "University of Wisconsin - Stout ï¼",
+      "location": "City, State, USA"
+    },
+    {
+      "degree": "IT - Computer Support Specialist",
+      "institution": "Fox Valley Technical College ï¼",
+      "location": "City, State, USA"
+    }
+  ],
+  "skills": [
+    "Team Player",
+    "Physically active",
+    "Out-going",
+    "Willingness to learn",
+    "Shows Initiative"
+  ]
+}

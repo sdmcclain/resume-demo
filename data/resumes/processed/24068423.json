@@ -1,0 +1,102 @@
+{
+  "personalInformation": {
+    "summary": "15+ years of research experience in agricultural research 5 years of extension experience as a agronomic resource professional PhD in Soil Science and Crop physiology (minor) Strong experience in conducting and managing research trials of various crops Strong experience in various crop production systems Strong multidisciplinary background: customer support to field research Strong experience in GIS web application Development using HTML5, JavaScript, CSS3,PHP Strong Experience in - water and nutrient management, drought stress Instruments - Licor 6400, CIRAS3, Campbell Scientific, GC, HPLC, Wireless irrigation Strong skills in the areas : Statistical design and data analysis, Agricultural extension",
+    "title": "Research Associate"
+  },
+  "professionalExperience": [
+    {
+      "company": "Company Name",
+      "position": "Research Associate",
+      "startDate": "January 2015",
+      "endDate": "Current",
+      "responsibilities": [
+        "Managing sustainable horticultural crop production through environment control Hydroponics tomato production under controlled environment of light, water and nutrients Identification and characterization of drought and nutrient stress resistance varieties University of Kentucky 2010 July - 2014 Dec Production environments: field crops, nursery, green house, high tunnels, plasticulture vegetables",
+        "Conducted field trials on irrigation and nutrient management, nitrogen cycling Developed physiological models on water use for irrigation scheduling for nursery crops Strong background on growth, development and phenology of various crops Multistate USDA project in collaboration with industry on sustainable nursery practices Presented results at grower meetings, national and international scientific meetings Developed programs for automation of irrigation volume, timing and frequency Working knowledge in drip, sprinkler irrigation systems, compost spreaders, mulchers, bed formers, chop gates Worked closely with growers and industry in obtaining first-hand information about their field Prepared successful grant proposals, technical reports, popular articles and peer reviewed papers Research Assistant Plant and Soil Sciences Dept., Univ."
+      ]
+    },
+    {
+      "company": "of Kentucky",
+      "position": "Research Assistant Plant and Soil Sciences Dept., Univ.",
+      "startDate": "2006 Aug",
+      "endDate": "2010 May",
+      "responsibilities": [
+        "Field investigations of spatial variability on soil water storage and nitrogen status in corn and winter wheat in a no-till farmer's field Used soil water sensing capacitance probe, crop growth sensors; Green Seeker, Hydro-N sensor and Spectro radiometer to assess spatial variability at field scale Practical knowledge of field equipment: fertilizer applicators, cultivators, tractors, combines."
+      ]
+    },
+    {
+      "company": "Company Name",
+      "position": "Agricultural Officer July",
+      "startDate": "January 2004",
+      "endDate": "February 2006",
+      "responsibilities": [
+        "Acted as a technical consultant for effective knowledge translation and transfer of technology.",
+        "Worked on agronomic practices for field crops and fruits, vegetables and trees.",
+        "Solved site specific soil, nutrient, pest and disease problems in the field."
+      ]
+    },
+    {
+      "company": "Company Name",
+      "position": "Junior Research Fellow Dec",
+      "startDate": "January 2000",
+      "endDate": "December 2002",
+      "responsibilities": [
+        "Senior Research Fellow Kerala State Land Use Board, Govt.",
+        "of Kerala 2003 April-2003 Oct.",
+        "Identified farming systems suitable for different agro-ecological zones of Kerala state, India.",
+        "Development of Site Specific Nutrient Management strategies for farm models of Kerala.",
+        "Investigated rice response to nitrogen fertilization in farmer's fields.",
+        "Used simulation models to transfer nitrogen fertilizer recommendations for rice tracts across soil and climatic barriers."
+      ]
+    },
+    {
+      "company": "Company Name",
+      "position": "Research Assistant Nov",
+      "startDate": "January 2000",
+      "endDate": "May 2000",
+      "responsibilities": [
+        "Developed sustainable technologies to retain soil, moisture and vegetation in eroded regions using Coir Geo textiles.",
+        "Identified different types of coir geo textiles for conserving soil and water under varying slopes."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "PhD",
+      "institution": "University of Kentucky",
+      "field": "Soil Science and Crop physiology",
+      "graduationDate": "2010"
+    },
+    {
+      "degree": "MS",
+      "institution": "Tamil Nadu Agricultural University India",
+      "field": "Soil Science and Agricultural Chemistry",
+      "graduationDate": "2002"
+    },
+    {
+      "degree": "MS",
+      "institution": "Kerala Agricultural University India",
+      "field": "Soil Science and Agricultural Chemistry",
+      "graduationDate": "2000"
+    }
+  ],
+  "skills": [
+    "automation",
+    "consultant",
+    "Dec",
+    "fertilizer",
+    "grant proposals",
+    "irrigation",
+    "Managing",
+    "meetings",
+    "Modeling",
+    "Oct",
+    "PhD",
+    "processes",
+    "Research",
+    "scheduling",
+    "scientific",
+    "simulation",
+    "translation",
+    "articles"
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "personalInformation": {
+    "summary": "Skilled weather forecaster with experience in the media network. Familiar with SmartMET system to make short and medium range forecasts at any spatial scale.",
+    "title": "MEDIA WEATHER FORECASTER"
+  },
+  "professionalExperience": [
+    {
+      "company": "Company Name i4 City",
+      "position": "Media Weather Forecaster",
+      "startDate": "March 2010",
+      "endDate": "November 2014",
+      "responsibilities": [
+        "Presented local weather news and feature reports in the public radio style on both local and national weather news programs.",
+        "Introduced fresh and new angles on previously-reported material to update and inform the audience.",
+        "Combined video, audio and graphics to effectively convey each report and forecast.",
+        "Effectively explained the hazards and vulnerabilities that the people could expect and confront in some dangerous weather conditions."
+      ]
+    },
+    {
+      "company": "Company Name i/4 City",
+      "position": "Superior Specialist in Meteorology",
+      "startDate": "September 2008",
+      "endDate": "November 2014",
+      "responsibilities": [
+        "Created technical and research documents such as: daily and weekly forecasts, discussions and warnings.",
+        "Analyzed the meteorological conditions affecting peoples life and economic features.",
+        "Assisted in developing scientific analysis software.",
+        "Conducted research in Severe Local Storms and Weather forecast evaluation, specifically dangerous meteorological systems.",
+        "Developed effective working relations with groups, individuals, agencies and the public.",
+        "Supervised technical and professional staff.",
+        "Guaranteed all data met stringent quality control standards.",
+        "Trained new personnel and interns on office functions.",
+        "Maintained a high rate of accuracy over a 85% in daily forecast evaluation."
+      ]
+    }
+  ],
+  "accomplishments": [
+    "Served on a meteorological office for 6 years and as a weather office team leader for 3 years.",
+    "Completed advanced research of Severe Local Storms and Weather forecast evaluation.",
+    "Secured feature article in Cuban Meteorlogical Magazine.",
+    "Represented Cuban Weather Service in workshops and training courses in United States and China.",
+    "Attended postgraduated courses.",
+    "Participated in conferences and meetings as speaker.",
+    "Produced over 3 or 4 TV and Radio broadcasts each week for 4 straight years.",
+    "Interviewed on Television and spoke about weather forecasts, warnings an hazards."
+  ],
+  "education": [
+    {
+      "degree": "Bachelor degree : Meteorology",
+      "institution": "Institute of Technology and Applied Sciences i/4 City, Cuba",
+      "endDate": "2008"
+    },
+    {
+      "degree": "Diplomat Course â€œEvaluation of Ecological and Climatic Risks and Environmental Impactâ€",
+      "institution": "University of Alicante, Spain - INSTEC, Cuba",
+      "endDate": "05/2007",
+      "startDate": "09/2006"
+    }
+  ],
+  "highlights": [
+    "Communication skills",
+    "Adaptability",
+    "Common software application knowledge",
+    "Demonstrated organizational/planning skills",
+    "ability to improvise",
+    "good performance under difficult situations",
+    "team work experience",
+    "reliable"
+  ],
+  "skills": [
+    "People Skills: enthusiastic people person, advanced problem-solving, great organizational skills.",
+    "Weahter Forecast: SmartMET work station, Statistical Analysis Software, Numerical models analysis, Observational Data Analysis, Satellite and Radar workstation."
+  ]
+}

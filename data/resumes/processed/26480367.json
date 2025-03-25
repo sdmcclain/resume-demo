@@ -1,0 +1,134 @@
+{
+  "personalInformation": {
+    "summary": "Analyst with extensive experience in Information Technology. Proficiencies include trouble shooting hardware and software issues.\nExperiencedÂ Service techÂ with excellent client and project management skills. Action-oriented with strong ability to communicate effectively\nwith technology, executive, and business audiences.",
+    "title": "IT TECHNOLOGY SPECIALIST"
+  },
+  "professionalExperience": [
+    {
+      "company": "Company Name",
+      "position": "IT Technology Specialist",
+      "startDate": "09/2015",
+      "endDate": "04/2016",
+      "location": "City, State",
+      "responsibilities": [
+        "Monitored multiple databases to keep track of all company inventory. Successfully led key projects which resulted in [positive outcome].",
+        "Provided onsite training. Provided Tier1 & Tier2 level support;.",
+        "Perform Tier 3 level support to customers on operational or maintenance aspects of system equipment.",
+        "Perform service, repair and/or install of company products including system hardware, software, PCs and POS equipment.",
+        "Perform general maintenance, repair computer systems and peripheral equipment.",
+        "Replace and install cable (cat5) network cable.",
+        "Managed and trouble shoot telecom phone system."
+      ]
+    },
+    {
+      "company": "Company Name",
+      "position": "Field Service Tech",
+      "startDate": "03/2014",
+      "endDate": "04/2015",
+      "location": "City, State",
+      "responsibilities": [
+        "Level 1 Field Service Tech Provided Tier1 & Tier2 level support; Perform Tier 3 level support to customers on operational or maintenance aspects of system equipment.",
+        "Perform service, repair and/or install of company products including system hardware, software, PCs and POS equipment.",
+        "Perform general maintenance, repair computer systems and peripheral equipment.",
+        "Replace and install cable (cat5) network cable."
+      ]
+    },
+    {
+      "company": "Company Name",
+      "position": "Information Technology Specialist",
+      "startDate": "08/2010",
+      "endDate": "09/2006",
+      "location": "City, State",
+      "responsibilities": [
+        "Provided hardware support related to pc, lap tops, note books technical issues, software application and OS issues.",
+        "Assists clients with recommending, scheduling and implementing system hardware and/or software upgrades based on needs and anticipated growth.",
+        "Set up and maintained active directory requests, setup network ids/email accounts and remote desktop support for specific client.",
+        "Offered assist for website design, layout and hosting.",
+        "Offered residential customers technical support with hardware and software issues related to hard drives, power supply replacements and virus removal."
+      ]
+    },
+    {
+      "company": "Company Name",
+      "position": "Information Technology Specialist",
+      "startDate": "09/2006",
+      "endDate": "08/2010",
+      "responsibilities": [
+        "Conducted analysis to addressÂ network issuesÂ which led to install of a T1 line. Monitored multiple databases to keep track of all company technology inventory.Â Provide trouble shooting support in matters related to computer hardware and software issues.",
+        "Identify any computer architectural requirements; establish and upgrade systems; maintain installation records; improve system performance; maintain technical knowledge.",
+        "Set up and maintain local area network using cable layout and fiber optic connections.",
+        "Configure and trouble shooting routers, pix, Domino Server and Microsoft Windows 2003 Server.",
+        "Oversee staff related issues related to computer upgrades, hardware problems, virus, email accounts/ network ids, remote desktop support and training.",
+        "Develop policies and procedures for internet access and antivirus installations.",
+        "Communicate effectively with end users, vendors and upper management.",
+        "Trained end users in office applications and security issues.",
+        "Managed all pc hardware and software office applications and installations at the local branch offices, feed mills and truck shop in the Laurinburg, Bladenboro, Tar heel and Nichols S.C.",
+        "locations."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science",
+      "institution": "National American University",
+      "endDate": "August-05",
+      "field": "Business Management",
+      "location": "City, State Business Management"
+    },
+    {
+      "degree": "Associate/Degree",
+      "institution": "Robeson Community College",
+      "endDate": "May-92",
+      "field": "Business Computer Programming",
+      "location": "Business Computer Programming"
+    }
+  ],
+  "skills": [
+    "active directory",
+    "antivirus",
+    "C",
+    "cable",
+    "cat5",
+    "computer hardware",
+    "hardware",
+    "client",
+    "clients",
+    "email",
+    "front page",
+    "hard drives",
+    "hardware support",
+    "html",
+    "ids",
+    "internet access",
+    "local area network",
+    "layout",
+    "Domino",
+    "office applications",
+    "Microsoft office 2000",
+    "Windows 2000",
+    "Microsoft Windows 2003 Server",
+    "Windows XP",
+    "Network Security",
+    "Network",
+    "networking",
+    "OS",
+    "all pc hardware",
+    "phone system",
+    "Develop policies",
+    "POS",
+    "power supply",
+    "python",
+    "routers",
+    "scheduling",
+    "TCP/IP",
+    "technical support",
+    "desktop support",
+    "telecom",
+    "tops",
+    "trouble shooting",
+    "upgrades",
+    "upgrade",
+    "Vista",
+    "website design",
+    "Web development and design"
+  ]
+}

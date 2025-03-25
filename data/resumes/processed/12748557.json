@@ -1,0 +1,74 @@
+{
+  "personalInformation": {
+    "title": "REGIONAL ENGINEERING MANAGER Engineering Director"
+  },
+  "professionalExperience": [
+    {
+      "company": "Company Name City, State",
+      "position": "Regional Engineering Manager",
+      "startDate": "01/2014",
+      "responsibilities": [
+        "Currently directing ITS solution deliveries in Texas, Australia, New Zealand, and Chile.",
+        "Lead systems solution architect responsible for technical proposal write-ups, presentations, and engineering cost estimates, which have resulted in winning bids on projects ranging from $1M to $25M in the Western NA, SA, and Oceania regions.",
+        "Improved engineering resource coordination between project managers and the engineering department, resulting in more proactive resource planning and increased visibility.",
+        "Implemented targeted, JIT training sessions, which drastically improved work efficiency by minimizing the technical learning curve for new staff deployed on Projects."
+      ]
+    },
+    {
+      "company": "Company Name City, State",
+      "position": "Engineering Supervisor",
+      "startDate": "01/2011",
+      "endDate": "12/2013",
+      "responsibilities": [
+        "Improved engineering department productivity by re-organizing engineering staff activity reporting methods andÂ project resource planning.",
+        "Beat out the â€ preferred supplier' in a major civil project bid, by proposing a more efficient, single integrated technology platform that reduced the overall cost and deployment timeline.",
+        "Effective engineering team leadership and QA/QC oversight resulted in delivery of several high profile, challenging ITS/SCADA projects on time and under budget.",
+        "Responsible for engineering estimates and technical write-ups for bid proposals, and providedÂ product demos to prospective clients during sales presentations."
+      ]
+    },
+    {
+      "company": "Company Name City, State",
+      "position": "Senior Engineer",
+      "startDate": "07/2003",
+      "endDate": "12/2010"
+    },
+    {
+      "company": "Company Name City, State",
+      "position": "Systems Engineer II",
+      "startDate": "07/1999",
+      "endDate": "06/2003"
+    },
+    {
+      "company": "Company Name City, State",
+      "position": "Control Systems Engineer I / II",
+      "startDate": "07/1992",
+      "endDate": "06/1999"
+    },
+    {
+      "company": "Company Name City, State",
+      "position": "Associate Systems Engineer",
+      "startDate": "06/1991",
+      "endDate": "06/1992"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science",
+      "institution": "University of California at Santa Barbara City, State",
+      "field": "Electrical and Computer Engineering",
+      "graduationDate": "1990"
+    }
+  ],
+  "skills": [
+    "Architecting best practice technical solutions",
+    "Technical program management",
+    "QA/QM",
+    "Client management",
+    "Vendor management",
+    "Testing and commissioning planning and execution",
+    "Team leadership / cross-team collaboration",
+    "Engineering cost estimating",
+    "Engineering resource management and forecasting",
+    "Process improvement"
+  ]
+}

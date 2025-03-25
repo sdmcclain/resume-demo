@@ -1,0 +1,84 @@
+{
+  "personalInformation": {
+    "title": "SALES REPRESENTATIVE\nSummary"
+  },
+  "professionalExperience": [
+    {
+      "company": "Company Name i/4 City, State",
+      "position": "Sales Representative",
+      "startDate": "Oct 2017",
+      "endDate": "Oct 2017",
+      "responsibilities": [
+        "Cashier, selling lottery tickets to customers.",
+        "Managed the receptionist area, including greeting and responding to information asked.",
+        "Doing basic mathematics, adding, subtracting and multiplying.",
+        "Handing money and prices."
+      ]
+    },
+    {
+      "company": "Company Name i/4 City, State",
+      "position": "Front Desk Receptionist",
+      "startDate": "Dec 2015",
+      "endDate": "Aug 2016",
+      "responsibilities": [
+        "â Greet persons entering establishment and direct them to specific destinations.",
+        "â Operate telephone or forward calls, taking messages, or scheduling reservations.",
+        "â Receive payment and record receipts for services. â Hear and resolve complaints from customers.",
+        "â Transmit information or documents to customers, using computer, mail, or facsimile machine.",
+        "â Collect, sort, distribute guest mail.",
+        "â Enroll individuals to participate in our hotel rewards program",
+        "â Calculate and quote rates for hourly, weekly rates.",
+        "â Perform duties, such as straightening magazines to maintain lobby or reception area clean."
+      ]
+    },
+    {
+      "company": "Company Name i/4 City, State",
+      "position": "Room Service",
+      "startDate": "Dec 2015",
+      "endDate": "Aug 2016",
+      "responsibilities": [
+        "Take food orders and relay orders to kitchen staff.",
+        "Place food servings on plates or trays.",
+        "Examine trays to ensure that they contain required items.",
+        "Stock service stations with items such as ice, napkins, or straws.",
+        "Remove trays and stack dishes for return to kitchen after meals are finished.",
+        "Total checks, present them to customers, and accept payment for services.Â Determine where guest would like to eat their meals and help\nthem get situated.",
+        "Clean or sterilize dishes, equipment."
+      ]
+    },
+    {
+      "company": "Company Name i/4 City, State",
+      "position": "Team Member",
+      "startDate": "Jan 2015",
+      "endDate": "Dec 2015",
+      "responsibilities": [
+        "Train workers in skills such as taking orders, communication, Observe and influence guest behavior, communicating and interacting with\nthem.",
+        "Primarily serve and prepare food for customers Cleaning work stations and answering questions about menu items, policies, and services."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Associate Of Arts",
+      "institution": "Tint School of Makeup & Cosmetology Grand i1/4 City, State Nail Technician",
+      "endDate": "Mar 2016"
+    },
+    {
+      "degree": "High School Diploma",
+      "institution": "Moises E. Molina High School 1/4 City, State",
+      "endDate": "Jul 2015"
+    }
+  ],
+  "skills": [
+    "Critical Thinking",
+    "facsimile machine",
+    "mail",
+    "policies",
+    "reception",
+    "scheduling",
+    "taking messages",
+    "Technician",
+    "telephone",
+    "Time Management"
+  ]
+}
