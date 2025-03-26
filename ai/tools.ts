@@ -1,27 +1,25 @@
 import { tool } from "ai";
 import { z } from "zod";
-import {
-  OutputMessage,
-  Sandbox,
-  Execution,
-  Result,
-  ExecutionError,
-} from "@e2b/code-interpreter";
+import { Sandbox, Result, ExecutionError } from "@e2b/code-interpreter";
 import resumeJsonSchema from "../data/resumes/schemas/resume.schema.json";
 
 const templateID = "dtpa9vsgs7ggc8brb4i0";
 
-type ToolResultContent = Array<
-  | {
-      type: "text";
-      text: string;
-    }
-  | {
-      type: "image";
-      data: string; // base64 encoded png image, e.g. screenshot
-      mimeType?: string; // e.g. 'image/png';
-    }
->;
+type ToolResultTextContentItem = {
+  type: "text";
+  text: string;
+};
+type ToolResultImageContentItem = {
+  type: "image";
+  data: string; // base64 encoded png image, e.g. screenshot
+  mimeType?: string; // e.g. 'image/png';
+};
+
+type ToolResultContentItem =
+  | ToolResultTextContentItem
+  | ToolResultImageContentItem;
+
+type ToolResultContent = Array<ToolResultContentItem>;
 
 export type E2bResult = {
   logs: {
@@ -30,7 +28,7 @@ export type E2bResult = {
   };
   error: ExecutionError | undefined;
   results: Result[];
-  code: string;
+  code?: string;
 };
 
 export const sandboxCodeInterpreterTool = tool({
@@ -41,16 +39,19 @@ export const sandboxCodeInterpreterTool = tool({
   }),
   execute: async ({ code }, { toolCallId, messages }): Promise<E2bResult> => {
     const combinedCode = [
-      "from resume_demo.dataloader import load_resumes",
-      "resumes = load_resumes()",
       ...messages
         .filter((m) => m.role === "tool")
-        .map((m) => (m.content[0].result as E2bResult).code),
+        .flatMap((m) => m.content)
+        .flatMap((m) => m.result as ToolResultContentItem)
+        .filter((r) => r.type === "text")
+        .filter((r) => r.text.startsWith("code:\n"))
+        .map((r) => r.text.substring("code:\n".length)),
       code,
     ].join("\n");
-    console.log("[Code Interpreter]", combinedCode);
+    console.log("[Code Interpreter Code]", { combinedCode });
     const sbx = await Sandbox.create(templateID);
     const exec = await sbx.runCode(combinedCode);
+    console.log("[Code Interpreter Exec]", exec);
     // Control the length, to prevent overwhelming context window
     const result = {
       logs: {
@@ -59,16 +60,41 @@ export const sandboxCodeInterpreterTool = tool({
       },
       error: exec.error,
       results: exec.results,
-      code,
+      code: !exec.error && exec.logs.stderr.length === 0 ? code : undefined,
     };
-    console.log("[Code Interpreter Result]", result);
+    //console.log("[Code Interpreter Result]", result);
     return result;
   },
   experimental_toToolResultContent(exec: E2bResult): ToolResultContent {
+    //console.log("[Code Interpreter toToolResultContent]", exec);
     const response: ToolResultContent = [
-      { type: "text", text: `stdout:\n${exec.logs.stdout}` },
-      { type: "text", text: `stderr:\n${exec.logs.stderr}` },
-      { type: "text", text: `error:\n${exec.error}` },
+      ...(exec.logs.stdout
+        ? [
+            {
+              type: "text" as const,
+              text: `stdout:\n${exec.logs.stdout}`.trim(),
+            },
+          ]
+        : []),
+      ...(exec.logs.stderr
+        ? [
+            {
+              type: "text" as const,
+              text: `stderr:\n${exec.logs.stderr}`.trim(),
+            },
+          ]
+        : []),
+      ...(exec.error?.traceback
+        ? [
+            {
+              type: "text" as const,
+              text: `error:\n${exec.error.traceback}`.trim(),
+            },
+          ]
+        : []),
+      ...(exec.code
+        ? [{ type: "text" as const, text: `code:\n${exec.code}`.trim() }]
+        : []),
       ...exec.results
         .filter((result) => result?.png)
         .map((result) => ({

@@ -1,10 +1,7 @@
 import { promises as fs } from "fs";
 import path from "path";
 import { anthropic } from "@ai-sdk/anthropic";
-import {
-  loadResumeJsonSchemaTool,
-  sandboxCodeInterpreterTool,
-} from "@/ai/tools";
+import { sandboxCodeInterpreterTool } from "@/ai/tools";
 import { streamText, type UIMessage } from "ai";
 
 // Allow streaming responses up to 60 seconds
@@ -36,16 +33,12 @@ You are a data scientist assisting the HR recruiting team with some resume analy
 
 - the python code runs in jupyter notebook.
 - every time you call \`analyzeData\` tool, the python code is executed in a separate cell. it's okay to multiple calls to \`analyzeData\`.
+- all previous cells are available in global scope, you do not need to run them again.
 - display visualizations using matplotlib or any other visualization library directly in the notebook. don't worry about saving the visualizations to a file.
-- you have access to the internet and can make api requests.
-- you also have access to the filesystem and can read/write files.
 - you can install any pip package (if it exists) if you need to but the usual packages for data analysis are already preinstalled.
 - you can run any python code you want, everything is running in a secure sandbox environment.
 - think ahead about how any visualizations will look, and make sure that an appropriate amount of information is presented to the user.
 - provide a plot with your answer if possible
-
-## Loading Resumes
-- The global variable \`resumes\` contains a list of all resumes
 
 ## Pydantic V2 BaseModels
 
@@ -73,23 +66,65 @@ function errorHandler(error: unknown) {
 
 export async function POST(req: Request) {
   const { messages }: { messages: UIMessage[] } = await req.json();
+  const initialMessage = {
+    id: "1",
+    role: "assistant" as const,
+    content: "Load the resumes:",
+    parts: [
+      {
+        type: "tool-invocation" as const,
+        toolInvocation: {
+          toolName: "analyzeData",
+          toolCallId: "1",
+          state: "result" as const,
+          step: 0,
+          args: {
+            code:
+              "from resume_demo.dataloader import load_resumes\n" +
+              "resumes = load_resumes()\n" +
+              'print(f"Number of resumes: {len(resumes)}")\n',
+          },
+          result: {
+            logs: {
+              stdout: "Number of resumes: 500\n",
+              stderr: "",
+            },
+            error: undefined,
+            results: [],
+            code:
+              "from resume_demo.dataloader import load_resumes\n" +
+              "resumes = load_resumes()\n" +
+              'print(f"Number of resumes: {len(resumes)}")\n',
+          },
+        },
+      },
+    ],
+  };
+  messages.splice(1, 0, initialMessage);
+  //console.log(
+  //  "message-parts",
+  //  messages
+  //    .filter((m) => m?.parts.length > 0)
+  //    .flatMap((m) => m.parts)
+  //    .filter((p) => p.type === "tool-invocation")
+  //    .map((p) => p.toolInvocation),
+  //);
 
   const result = streamText({
     model: anthropic("claude-3-7-sonnet-20250219"),
     system: SYSTEM_PROMPT,
     messages,
     tools: {
-      loadResumeJsonSchema: loadResumeJsonSchemaTool,
       analyzeData: sandboxCodeInterpreterTool,
     },
     experimental_telemetry: {
       isEnabled: true,
     },
-    providerOptions: {
-      anthropic: {
-        thinking: { type: "enabled", budgetTokens: 12000 },
-      },
-    },
+    //providerOptions: {
+    //  anthropic: {
+    //    thinking: { type: "enabled", budgetTokens: 12000 },
+    //  },
+    //},
   });
 
   return result.toDataStreamResponse({
